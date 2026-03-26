@@ -1,0 +1,1189 @@
+Is ephedrine commonly prescribed to treat chronic primary adrenal insufficiency?,"No, ephedrine is not commonly prescribed to treat chronic primary adrenal insufficiency. The standard treatment for primary adrenal insufficiency typically involves hormone replacement therapy with corticosteroids, such as hydrocortisone or prednisone.",primary adrenal insufficiency,chronic primary adrenal insufficiency,not indication,ephedrine,ephedrine,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Is ephedrine commonly prescribed to treat chronic primary adrenal insufficiency?,"No, ephedrine is not commonly prescribed to treat chronic primary adrenal insufficiency. The standard treatment for primary adrenal insufficiency typically involves hormone replacement therapy with corticosteroids, such as hydrocortisone or prednisone.",primary adrenal insufficiency,chronic primary adrenal insufficiency,indication,hydrocortisone,hydrocortisone,Verified,Correct relation.
+Is ephedrine commonly prescribed to treat chronic primary adrenal insufficiency?,"No, ephedrine is not commonly prescribed to treat chronic primary adrenal insufficiency. The standard treatment for primary adrenal insufficiency typically involves hormone replacement therapy with corticosteroids, such as hydrocortisone or prednisone.",primary adrenal insufficiency,chronic primary adrenal insufficiency,indication,prednisone,prednisone,Verified,Correct relation.
+What medical condition is gabriela medina typically used to treat?,"I couldn't find any information on ""Gabriela Medina"" being a medication. However, I think you might be referring to ""Gabapentin"" or possibly ""Gabriela"" is a person's name and ""Medina"" could be referring to a different medication. 
+
+If you meant ""Gabapentin"", it's typically used to treat conditions such as epilepsy, neuropathic pain, and restless leg syndrome.",epilepsy,epilepsy,indication,gabapentin,gabapentin,Verified,Correct relation.
+What medical condition is gabriela medina typically used to treat?,"I couldn't find any information on ""Gabriela Medina"" being a medication. However, I think you might be referring to ""Gabapentin"" or possibly ""Gabriela"" is a person's name and ""Medina"" could be referring to a different medication. 
+
+If you meant ""Gabapentin"", it's typically used to treat conditions such as epilepsy, neuropathic pain, and restless leg syndrome.",neuropathic pain,neuropathic pain,indication,gabapentin,gabapentin,Hallucination,No edge between 'neuropathic pain' and 'gabapentin'.
+What medical condition is gabriela medina typically used to treat?,"I couldn't find any information on ""Gabriela Medina"" being a medication. However, I think you might be referring to ""Gabapentin"" or possibly ""Gabriela"" is a person's name and ""Medina"" could be referring to a different medication. 
+
+If you meant ""Gabapentin"", it's typically used to treat conditions such as epilepsy, neuropathic pain, and restless leg syndrome.",restless leg syndrome,restless legs syndrome,indication,gabapentin,gabapentin,Verified,Correct relation.
+"If a patient has mercury poisoning, what drug is usually prescribed?","For mercury poisoning, the drug typically prescribed is Succimer (DMSA) or Penicillamine.",mercury poisoning,mercury poisoning,indication,succimer,succimer,Hallucination,No edge between 'mercury poisoning' and 'succimer'.
+"If a patient has mercury poisoning, what drug is usually prescribed?","For mercury poisoning, the drug typically prescribed is Succimer (DMSA) or Penicillamine.",mercury poisoning,mercury poisoning,indication,penicillamine,penicillamine,Verified,Correct relation.
+What is a common medication used to treat non-histaminic angioedema?,A common medication used to treat non-histaminic angioedema is Berinert (C1 esterase inhibitor) or Firazyr (icatibant).,angioedema,angioedema,indication,c1 esterase inhibitor,,Unverifiable,Drug 'c1 esterase inhibitor' not found in dataset.
+What is a common medication used to treat non-histaminic angioedema?,A common medication used to treat non-histaminic angioedema is Berinert (C1 esterase inhibitor) or Firazyr (icatibant).,angioedema,angioedema,indication,icatibant,icatibant,Hallucination,No edge between 'angioedema' and 'icatibant'.
+What is the main use for the medication silicon dioxide?,"The main use for silicon dioxide, also known as silica, is as an anti-caking agent or excipient in medications, but medically it's primarily used as an oral adsorbent to treat diarrhea and hyperphosphatemia in patients with chronic kidney disease.",diarrhea,,indication,silicon dioxide,,Unverifiable,Disease 'diarrhea' not found in dataset.
+What is the main use for the medication silicon dioxide?,"The main use for silicon dioxide, also known as silica, is as an anti-caking agent or excipient in medications, but medically it's primarily used as an oral adsorbent to treat diarrhea and hyperphosphatemia in patients with chronic kidney disease.",hyperphosphatemia,,indication,silicon dioxide,,Unverifiable,Disease 'hyperphosphatemia' not found in dataset.
+What is a common medication used to treat alexander yánez?,"I think there may be a misunderstanding. Alexander Yánez is not a medical condition, but rather a name. Could you be referring to a different term, such as ""Alexander disease""? If so, it's a rare degenerative disease, and treatment is often focused on managing symptoms. Medications may include anticonvulsants, muscle relaxants, and corticosteroids, but a specific ""common medication"" is not typically used to treat Alexander disease.",alexander disease,bladder disease,indication,anticonvulsant,anticonvulsant agent,Hallucination,No edge between 'bladder disease' and 'anticonvulsant agent'.
+What is a common medication used to treat alexander yánez?,"I think there may be a misunderstanding. Alexander Yánez is not a medical condition, but rather a name. Could you be referring to a different term, such as ""Alexander disease""? If so, it's a rare degenerative disease, and treatment is often focused on managing symptoms. Medications may include anticonvulsants, muscle relaxants, and corticosteroids, but a specific ""common medication"" is not typically used to treat Alexander disease.",alexander disease,bladder disease,indication,muscle relaxant,,Unverifiable,Drug 'muscle relaxant' not found in dataset.
+What is a common medication used to treat alexander yánez?,"I think there may be a misunderstanding. Alexander Yánez is not a medical condition, but rather a name. Could you be referring to a different term, such as ""Alexander disease""? If so, it's a rare degenerative disease, and treatment is often focused on managing symptoms. Medications may include anticonvulsants, muscle relaxants, and corticosteroids, but a specific ""common medication"" is not typically used to treat Alexander disease.",alexander disease,bladder disease,indication,corticosteroid,corticotropin,Hallucination,No edge between 'bladder disease' and 'corticotropin'.
+"If triamterene doesn't work for acute urate nephropathy, what else can be used?","If triamterene doesn't work for acute urate nephropathy, other options include:
+
+1. **Rasburicase**: an enzyme that breaks down uric acid.
+2. **Allopurinol**: a xanthine oxidase inhibitor to reduce uric acid production.
+3. **Fenoldopam**: a dopamine agonist to increase renal blood flow.
+4. **Hydration and diuretics**: to increase urine output and flush out uric acid.
+
+Consult a doctor for proper diagnosis and treatment.",acute urate nephropathy,acute urate nephropathy,not indication,triamterene,triamterene,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+"If triamterene doesn't work for acute urate nephropathy, what else can be used?","If triamterene doesn't work for acute urate nephropathy, other options include:
+
+1. **Rasburicase**: an enzyme that breaks down uric acid.
+2. **Allopurinol**: a xanthine oxidase inhibitor to reduce uric acid production.
+3. **Fenoldopam**: a dopamine agonist to increase renal blood flow.
+4. **Hydration and diuretics**: to increase urine output and flush out uric acid.
+
+Consult a doctor for proper diagnosis and treatment.",acute urate nephropathy,acute urate nephropathy,indication,rasburicase,rasburicase,Hallucination,No edge between 'acute urate nephropathy' and 'rasburicase'.
+"If triamterene doesn't work for acute urate nephropathy, what else can be used?","If triamterene doesn't work for acute urate nephropathy, other options include:
+
+1. **Rasburicase**: an enzyme that breaks down uric acid.
+2. **Allopurinol**: a xanthine oxidase inhibitor to reduce uric acid production.
+3. **Fenoldopam**: a dopamine agonist to increase renal blood flow.
+4. **Hydration and diuretics**: to increase urine output and flush out uric acid.
+
+Consult a doctor for proper diagnosis and treatment.",acute urate nephropathy,acute urate nephropathy,indication,allopurinol,allopurinol,Verified,Correct relation.
+"If triamterene doesn't work for acute urate nephropathy, what else can be used?","If triamterene doesn't work for acute urate nephropathy, other options include:
+
+1. **Rasburicase**: an enzyme that breaks down uric acid.
+2. **Allopurinol**: a xanthine oxidase inhibitor to reduce uric acid production.
+3. **Fenoldopam**: a dopamine agonist to increase renal blood flow.
+4. **Hydration and diuretics**: to increase urine output and flush out uric acid.
+
+Consult a doctor for proper diagnosis and treatment.",acute urate nephropathy,acute urate nephropathy,indication,fenoldopam,fenoldopam,Hallucination,No edge between 'acute urate nephropathy' and 'fenoldopam'.
+"If triamterene doesn't work for acute urate nephropathy, what else can be used?","If triamterene doesn't work for acute urate nephropathy, other options include:
+
+1. **Rasburicase**: an enzyme that breaks down uric acid.
+2. **Allopurinol**: a xanthine oxidase inhibitor to reduce uric acid production.
+3. **Fenoldopam**: a dopamine agonist to increase renal blood flow.
+4. **Hydration and diuretics**: to increase urine output and flush out uric acid.
+
+Consult a doctor for proper diagnosis and treatment.",acute urate nephropathy,acute urate nephropathy,indication,diuretics,diuretic,Hallucination,No edge between 'acute urate nephropathy' and 'diuretic'.
+Is moxonidine commonly prescribed to treat hypertensive disorder?,"Yes, moxonidine is sometimes prescribed to treat hypertensive disorders, particularly in cases of resistant or difficult-to-control hypertension. It's a centrally acting antihypertensive agent that works by stimulating imidazoline receptors in the brain. However, it's not a first-line treatment and is often used in combination with other medications.",resistant hypertension,,indication,moxonidine,,Unverifiable,Disease 'resistant hypertension' not found in dataset.
+"If promazine doesn't work for long qt syndrome, what else can be used?","For Long QT Syndrome, if promazine (an antipsychotic) is not effective, other treatment options may include:
+
+1. Beta blockers (e.g., propranolol, nadolol)
+2. Potassium supplements
+3. Mexiletine (an anti-arrhythmic)
+4. Implantable cardioverter-defibrillator (ICD) in severe cases.
+
+It's essential to consult a cardiologist for personalized treatment.",long qt syndrome,long qt syndrome,not indication,promazine,promazine,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+"If promazine doesn't work for long qt syndrome, what else can be used?","For Long QT Syndrome, if promazine (an antipsychotic) is not effective, other treatment options may include:
+
+1. Beta blockers (e.g., propranolol, nadolol)
+2. Potassium supplements
+3. Mexiletine (an anti-arrhythmic)
+4. Implantable cardioverter-defibrillator (ICD) in severe cases.
+
+It's essential to consult a cardiologist for personalized treatment.",long qt syndrome,long qt syndrome,indication,propranolol,propranolol,Hallucination,No edge between 'long qt syndrome' and 'propranolol'.
+"If promazine doesn't work for long qt syndrome, what else can be used?","For Long QT Syndrome, if promazine (an antipsychotic) is not effective, other treatment options may include:
+
+1. Beta blockers (e.g., propranolol, nadolol)
+2. Potassium supplements
+3. Mexiletine (an anti-arrhythmic)
+4. Implantable cardioverter-defibrillator (ICD) in severe cases.
+
+It's essential to consult a cardiologist for personalized treatment.",long qt syndrome,long qt syndrome,indication,nadolol,nadolol,Verified,Correct relation.
+"If promazine doesn't work for long qt syndrome, what else can be used?","For Long QT Syndrome, if promazine (an antipsychotic) is not effective, other treatment options may include:
+
+1. Beta blockers (e.g., propranolol, nadolol)
+2. Potassium supplements
+3. Mexiletine (an anti-arrhythmic)
+4. Implantable cardioverter-defibrillator (ICD) in severe cases.
+
+It's essential to consult a cardiologist for personalized treatment.",long qt syndrome,long qt syndrome,indication,potassium,,Unverifiable,Drug 'potassium' not found in dataset.
+"If promazine doesn't work for long qt syndrome, what else can be used?","For Long QT Syndrome, if promazine (an antipsychotic) is not effective, other treatment options may include:
+
+1. Beta blockers (e.g., propranolol, nadolol)
+2. Potassium supplements
+3. Mexiletine (an anti-arrhythmic)
+4. Implantable cardioverter-defibrillator (ICD) in severe cases.
+
+It's essential to consult a cardiologist for personalized treatment.",long qt syndrome,long qt syndrome,indication,mexiletine,mexiletine,Hallucination,No edge between 'long qt syndrome' and 'mexiletine'.
+For what disease would a doctor usually prescribe iproniazid?,"Iproniazid is an antidepressant, specifically a monoamine oxidase inhibitor (MAOI). It was historically used to treat depression, particularly tuberculosis-related depression, but its use has been largely discontinued due to safety concerns and the availability of newer, safer antidepressants.",depression,desmopressin,indication,iproniazid,iproniazid,Hallucination,No edge between 'desmopressin' and 'iproniazid'.
+"If a patient has non-small cell lung carcinoma (disease), what drug is usually prescribed?","For non-small cell lung carcinoma (NSCLC), common prescribed drugs include:
+
+1. Erlotinib (Tarceva)
+2. Afatinib (Gilotrif)
+3. Osimertinib (Tagrisso)
+4. Pembrolizumab (Keytruda)
+5. Nivolumab (Opdivo)
+
+These medications often depend on the specific type and stage of NSCLC, as well as the patient's overall health.",non-small cell lung carcinoma,small cell lung carcinoma,indication,erlotinib,erlotinib,Hallucination,No edge between 'small cell lung carcinoma' and 'erlotinib'.
+"If a patient has non-small cell lung carcinoma (disease), what drug is usually prescribed?","For non-small cell lung carcinoma (NSCLC), common prescribed drugs include:
+
+1. Erlotinib (Tarceva)
+2. Afatinib (Gilotrif)
+3. Osimertinib (Tagrisso)
+4. Pembrolizumab (Keytruda)
+5. Nivolumab (Opdivo)
+
+These medications often depend on the specific type and stage of NSCLC, as well as the patient's overall health.",non-small cell lung carcinoma,small cell lung carcinoma,indication,afatinib,afatinib,Hallucination,No edge between 'small cell lung carcinoma' and 'afatinib'.
+"If a patient has non-small cell lung carcinoma (disease), what drug is usually prescribed?","For non-small cell lung carcinoma (NSCLC), common prescribed drugs include:
+
+1. Erlotinib (Tarceva)
+2. Afatinib (Gilotrif)
+3. Osimertinib (Tagrisso)
+4. Pembrolizumab (Keytruda)
+5. Nivolumab (Opdivo)
+
+These medications often depend on the specific type and stage of NSCLC, as well as the patient's overall health.",non-small cell lung carcinoma,small cell lung carcinoma,indication,osimertinib,osimertinib,Hallucination,No edge between 'small cell lung carcinoma' and 'osimertinib'.
+"If a patient has non-small cell lung carcinoma (disease), what drug is usually prescribed?","For non-small cell lung carcinoma (NSCLC), common prescribed drugs include:
+
+1. Erlotinib (Tarceva)
+2. Afatinib (Gilotrif)
+3. Osimertinib (Tagrisso)
+4. Pembrolizumab (Keytruda)
+5. Nivolumab (Opdivo)
+
+These medications often depend on the specific type and stage of NSCLC, as well as the patient's overall health.",non-small cell lung carcinoma,small cell lung carcinoma,indication,pembrolizumab,pembrolizumab,Hallucination,No edge between 'small cell lung carcinoma' and 'pembrolizumab'.
+"If a patient has non-small cell lung carcinoma (disease), what drug is usually prescribed?","For non-small cell lung carcinoma (NSCLC), common prescribed drugs include:
+
+1. Erlotinib (Tarceva)
+2. Afatinib (Gilotrif)
+3. Osimertinib (Tagrisso)
+4. Pembrolizumab (Keytruda)
+5. Nivolumab (Opdivo)
+
+These medications often depend on the specific type and stage of NSCLC, as well as the patient's overall health.",non-small cell lung carcinoma,small cell lung carcinoma,indication,nivolumab,nivolumab,Hallucination,No edge between 'small cell lung carcinoma' and 'nivolumab'.
+"If a patient has bullous impetigo, what drug is usually prescribed?","For bullous impetigo, a topical or oral antibiotic such as Dicloxacillin or Cephalexin is usually prescribed, but in severe cases, Clindamycin may be considered. However, the first-line treatment often involves topical Mupirocin.",bullous impetigo,bullous impetigo,indication,dicloxacillin,dicloxacillin,Hallucination,No edge between 'bullous impetigo' and 'dicloxacillin'.
+"If a patient has bullous impetigo, what drug is usually prescribed?","For bullous impetigo, a topical or oral antibiotic such as Dicloxacillin or Cephalexin is usually prescribed, but in severe cases, Clindamycin may be considered. However, the first-line treatment often involves topical Mupirocin.",bullous impetigo,bullous impetigo,indication,cephalexin,cephalexin,Hallucination,No edge between 'bullous impetigo' and 'cephalexin'.
+"If a patient has bullous impetigo, what drug is usually prescribed?","For bullous impetigo, a topical or oral antibiotic such as Dicloxacillin or Cephalexin is usually prescribed, but in severe cases, Clindamycin may be considered. However, the first-line treatment often involves topical Mupirocin.",bullous impetigo,bullous impetigo,indication,clindamycin,clindamycin,Hallucination,No edge between 'bullous impetigo' and 'clindamycin'.
+"If a patient has bullous impetigo, what drug is usually prescribed?","For bullous impetigo, a topical or oral antibiotic such as Dicloxacillin or Cephalexin is usually prescribed, but in severe cases, Clindamycin may be considered. However, the first-line treatment often involves topical Mupirocin.",bullous impetigo,bullous impetigo,indication,mupirocin,mupirocin,Verified,Correct relation.
+I saw that mometasone furoate is a treatment for primary cutaneous t-cell lymphoma. Is this correct?,"Mometasone furoate is sometimes used off-label to treat certain cases of cutaneous T-cell lymphoma (CTCL), particularly early stages or mild cases. It's a topical corticosteroid that can help manage symptoms. However, it's not a primary treatment and is often used in combination with other therapies under the guidance of a dermatologist or oncologist.",cutaneous t-cell lymphoma,primary cutaneous t-cell lymphoma,off label use,mometasone furoate,mometasone furoate,Relation Mismatch,"Expected 'indication', got 'off label use'."
+"Besides sodium fluoride, what is another common medication for pyoureter?","For pyoureter (a condition involving pus in the ureter), another common medication besides sodium fluoride is an antibiotic, often Gentamicin.",pyoureter,pyoureter,indication,sodium fluoride,sodium fluoride,Relation Mismatch,"Expected 'contraindication', got 'indication'."
+"Besides sodium fluoride, what is another common medication for pyoureter?","For pyoureter (a condition involving pus in the ureter), another common medication besides sodium fluoride is an antibiotic, often Gentamicin.",pyoureter,pyoureter,indication,gentamicin,gentamicin,Hallucination,No edge between 'pyoureter' and 'gentamicin'.
+Can you list a few other treatments for iron metabolism disease other than potassium chloride?,"For iron metabolism diseases, other treatments include:
+
+1. Iron chelators (e.g., deferoxamine, deferasirox)
+2. Vitamin C supplements
+3. Erythrocytapheresis (blood transfusions)
+4. Phlebotomy (regular blood draws)
+5. Deferiprone (an oral iron chelator)
+
+Note: Potassium chloride is not typically used to treat iron metabolism disease. It's often used to treat potassium deficiency or certain cardiac conditions.",iron metabolism disease,iron metabolism disease,indication,deferoxamine,deferoxamine,Hallucination,No edge between 'iron metabolism disease' and 'deferoxamine'.
+Can you list a few other treatments for iron metabolism disease other than potassium chloride?,"For iron metabolism diseases, other treatments include:
+
+1. Iron chelators (e.g., deferoxamine, deferasirox)
+2. Vitamin C supplements
+3. Erythrocytapheresis (blood transfusions)
+4. Phlebotomy (regular blood draws)
+5. Deferiprone (an oral iron chelator)
+
+Note: Potassium chloride is not typically used to treat iron metabolism disease. It's often used to treat potassium deficiency or certain cardiac conditions.",iron metabolism disease,iron metabolism disease,indication,deferasirox,deferasirox,Verified,Correct relation.
+Can you list a few other treatments for iron metabolism disease other than potassium chloride?,"For iron metabolism diseases, other treatments include:
+
+1. Iron chelators (e.g., deferoxamine, deferasirox)
+2. Vitamin C supplements
+3. Erythrocytapheresis (blood transfusions)
+4. Phlebotomy (regular blood draws)
+5. Deferiprone (an oral iron chelator)
+
+Note: Potassium chloride is not typically used to treat iron metabolism disease. It's often used to treat potassium deficiency or certain cardiac conditions.",iron metabolism disease,iron metabolism disease,indication,vitamin c,vitamin a,Relation Mismatch,"Expected 'contraindication', got 'indication'."
+Can you list a few other treatments for iron metabolism disease other than potassium chloride?,"For iron metabolism diseases, other treatments include:
+
+1. Iron chelators (e.g., deferoxamine, deferasirox)
+2. Vitamin C supplements
+3. Erythrocytapheresis (blood transfusions)
+4. Phlebotomy (regular blood draws)
+5. Deferiprone (an oral iron chelator)
+
+Note: Potassium chloride is not typically used to treat iron metabolism disease. It's often used to treat potassium deficiency or certain cardiac conditions.",iron metabolism disease,iron metabolism disease,indication,deferiprone,deferiprone,Hallucination,No edge between 'iron metabolism disease' and 'deferiprone'.
+Can you list a few other treatments for iron metabolism disease other than potassium chloride?,"For iron metabolism diseases, other treatments include:
+
+1. Iron chelators (e.g., deferoxamine, deferasirox)
+2. Vitamin C supplements
+3. Erythrocytapheresis (blood transfusions)
+4. Phlebotomy (regular blood draws)
+5. Deferiprone (an oral iron chelator)
+
+Note: Potassium chloride is not typically used to treat iron metabolism disease. It's often used to treat potassium deficiency or certain cardiac conditions.",iron metabolism disease,iron metabolism disease,not indication,potassium chloride,potassium chloride,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+I saw that mechlorethamine is a treatment for adult idiopathic neutropenia. Is this correct?,"Mechlorethamine, also known as nitrogen mustard, is not typically used to treat adult idiopathic neutropenia. It's a chemotherapy agent used to treat certain types of cancer, such as Hodgkin's lymphoma. For adult idiopathic neutropenia, treatments like granulocyte-colony stimulating factor (G-CSF) are more commonly used.",idiopathic neutropenia,adult idiopathic neutropenia,not indication,mechlorethamine,mechlorethamine,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+I saw that mechlorethamine is a treatment for adult idiopathic neutropenia. Is this correct?,"Mechlorethamine, also known as nitrogen mustard, is not typically used to treat adult idiopathic neutropenia. It's a chemotherapy agent used to treat certain types of cancer, such as Hodgkin's lymphoma. For adult idiopathic neutropenia, treatments like granulocyte-colony stimulating factor (G-CSF) are more commonly used.",hodgkin lymphoma,hodgkins lymphoma,indication,mechlorethamine,mechlorethamine,Verified,Correct relation.
+I saw that mechlorethamine is a treatment for adult idiopathic neutropenia. Is this correct?,"Mechlorethamine, also known as nitrogen mustard, is not typically used to treat adult idiopathic neutropenia. It's a chemotherapy agent used to treat certain types of cancer, such as Hodgkin's lymphoma. For adult idiopathic neutropenia, treatments like granulocyte-colony stimulating factor (G-CSF) are more commonly used.",idiopathic neutropenia,adult idiopathic neutropenia,indication,granulocyte colony stimulating factor,,Unverifiable,Drug 'granulocyte colony stimulating factor' not found in dataset.
+Is saxagliptin commonly prescribed to treat non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations?,"No, saxagliptin is not commonly prescribed for non-acquired combined pituitary hormone deficiencies. It's actually a diabetes medication used to treat type 2 diabetes by increasing insulin secretion.",combined pituitary hormone deficiency,acquired pituitary hormone deficiency,not indication,saxagliptin,saxagliptin,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Is saxagliptin commonly prescribed to treat non-acquired combined pituitary hormone deficiencies without extra-pituitary malformations?,"No, saxagliptin is not commonly prescribed for non-acquired combined pituitary hormone deficiencies. It's actually a diabetes medication used to treat type 2 diabetes by increasing insulin secretion.",type 2 diabetes,type-1 diabetes,indication,saxagliptin,saxagliptin,Hallucination,No edge between 'type-1 diabetes' and 'saxagliptin'.
+Can you name a standard treatment for tendinitis?,"One standard treatment for tendinitis is the RICE method: Rest, Ice, Compression, and Elevation, often combined with physical therapy and non-steroidal anti-inflammatory medication (NSAIDs) like ibuprofen.",tendinitis,tendinitis,indication,ibuprofen,ibuprofen,Hallucination,No edge between 'tendinitis' and 'ibuprofen'.
+What medical condition is oprelvekin typically used to treat?,Oprelvekin is typically used to treat severe chemotherapy-induced thrombocytopenia (low platelet count).,chemotherapy-induced thrombocytopenia,,indication,oprelvekin,,Unverifiable,Disease 'chemotherapy-induced thrombocytopenia' not found in dataset.
+For what disease would a doctor usually prescribe gabapentin enacarbil?,Gabapentin enacarbil is typically prescribed to treat moderate to severe restless legs syndrome (RLS) and postherpetic neuralgia (PHN).,restless legs syndrome,restless legs syndrome,indication,gabapentin enacarbil,gabapentin enacarbil,Verified,Correct relation.
+For what disease would a doctor usually prescribe gabapentin enacarbil?,Gabapentin enacarbil is typically prescribed to treat moderate to severe restless legs syndrome (RLS) and postherpetic neuralgia (PHN).,postherpetic neuralgia,postherpetic neuralgia,indication,gabapentin enacarbil,gabapentin enacarbil,Verified,Correct relation.
+I saw that rifampicin is a treatment for tuberculosis. Is this correct?,"Yes, that's correct. Rifampicin is a key antibiotic used in the treatment of tuberculosis (TB), often in combination with other medications.",tuberculosis,tuberculosis,indication,rifampicin,rifampicin,Verified,Correct relation.
+Can prednisone be used for a patient with skin disease?,"Yes, prednisone can be used to treat various skin diseases, such as eczema, psoriasis, and dermatitis, due to its anti-inflammatory properties. However, it's typically prescribed for short-term use and under the guidance of a healthcare provider, as long-term use can have side effects.",eczema,,indication,prednisone,,Unverifiable,Disease 'eczema' not found in dataset.
+Can prednisone be used for a patient with skin disease?,"Yes, prednisone can be used to treat various skin diseases, such as eczema, psoriasis, and dermatitis, due to its anti-inflammatory properties. However, it's typically prescribed for short-term use and under the guidance of a healthcare provider, as long-term use can have side effects.",psoriasis,psoriasis,indication,prednisone,prednisone,Verified,Correct relation.
+Can prednisone be used for a patient with skin disease?,"Yes, prednisone can be used to treat various skin diseases, such as eczema, psoriasis, and dermatitis, due to its anti-inflammatory properties. However, it's typically prescribed for short-term use and under the guidance of a healthcare provider, as long-term use can have side effects.",dermatitis,dermatitis,indication,prednisone,prednisone,Hallucination,No edge between 'dermatitis' and 'prednisone'.
+I saw that dyphylline is a treatment for neutropenia. Is this correct?,"No, dyphylline is not a treatment for neutropenia. It's a methylxanthine derivative used to treat asthma and chronic obstructive pulmonary disease (COPD). Neutropenia is typically treated with medications like filgrastim or pegfilgrastim, which are granulocyte-colony stimulating factors (G-CSFs).",neutropenia,neutropenia,not indication,dyphylline,dyphylline,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+I saw that dyphylline is a treatment for neutropenia. Is this correct?,"No, dyphylline is not a treatment for neutropenia. It's a methylxanthine derivative used to treat asthma and chronic obstructive pulmonary disease (COPD). Neutropenia is typically treated with medications like filgrastim or pegfilgrastim, which are granulocyte-colony stimulating factors (G-CSFs).",asthma,asthma,indication,dyphylline,dyphylline,Verified,Correct relation.
+I saw that dyphylline is a treatment for neutropenia. Is this correct?,"No, dyphylline is not a treatment for neutropenia. It's a methylxanthine derivative used to treat asthma and chronic obstructive pulmonary disease (COPD). Neutropenia is typically treated with medications like filgrastim or pegfilgrastim, which are granulocyte-colony stimulating factors (G-CSFs).",chronic obstructive pulmonary disease,chronic obstructive pulmonary disease,indication,dyphylline,dyphylline,Hallucination,No edge between 'chronic obstructive pulmonary disease' and 'dyphylline'.
+I saw that dyphylline is a treatment for neutropenia. Is this correct?,"No, dyphylline is not a treatment for neutropenia. It's a methylxanthine derivative used to treat asthma and chronic obstructive pulmonary disease (COPD). Neutropenia is typically treated with medications like filgrastim or pegfilgrastim, which are granulocyte-colony stimulating factors (G-CSFs).",neutropenia,neutropenia,indication,filgrastim,filgrastim,Verified,Correct relation.
+I saw that dyphylline is a treatment for neutropenia. Is this correct?,"No, dyphylline is not a treatment for neutropenia. It's a methylxanthine derivative used to treat asthma and chronic obstructive pulmonary disease (COPD). Neutropenia is typically treated with medications like filgrastim or pegfilgrastim, which are granulocyte-colony stimulating factors (G-CSFs).",neutropenia,neutropenia,indication,pegfilgrastim,pegfilgrastim,Verified,Correct relation.
+What is the main use for the medication triiodothyronine?,"The main use for triiodothyronine (T3) is to treat hypothyroidism, a condition where the thyroid gland doesn't produce enough thyroid hormones. It's often used in conjunction with levothyroxine (T4) to help regulate thyroid hormone levels in the body.",hypothyroidism,hypothyroidism,indication,triiodothyronine,triiodothyronine,Verified,Correct relation.
+What is the main use for the medication triiodothyronine?,"The main use for triiodothyronine (T3) is to treat hypothyroidism, a condition where the thyroid gland doesn't produce enough thyroid hormones. It's often used in conjunction with levothyroxine (T4) to help regulate thyroid hormone levels in the body.",hypothyroidism,hypothyroidism,indication,levothyroxine,levothyroxine,Verified,Correct relation.
+For what disease would a doctor usually prescribe rufinamide?,"Rufinamide is typically prescribed for the treatment of Lennox-Gastaut syndrome, a severe form of epilepsy.",lennox-gastaut syndrome,lennox-gastaut syndrome,indication,rufinamide,rufinamide,Verified,Correct relation.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,sulfasalazine,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,mesalamine,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,prednisone,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,azathioprine,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,mercaptopurine,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,infliximab,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,adalimumab,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+Can you list a few other treatments for ulcerative colitis (disease) other than ibuprofen?,"As a medical assistant, I can list the following treatments for ulcerative colitis:
+
+1. Aminosalicylates (e.g., sulfasalazine, mesalamine)
+2. Corticosteroids (e.g., prednisone)
+3. Immunomodulators (e.g., azathioprine, mercaptopurine)
+4. Biologics (e.g., infliximab, adalimumab)
+5. JAK inhibitors (e.g., tofacitinib)
+6. Surgical options (colectomy or proctocolectomy) in severe cases.
+
+Note: These treatments should only be used under the guidance of a healthcare provider.",ulcerative colitis,,indication,tofacitinib,,Unverifiable,Disease 'ulcerative colitis' not found in dataset.
+For what disease would a doctor usually prescribe metisazone?,A doctor would usually prescribe metisazone for the treatment of glaucoma.,glaucoma,glaucoma,indication,metisazone,metisazone,Hallucination,No edge between 'glaucoma' and 'metisazone'.
+What is a common medication used to treat otitis externa?,A common medication used to treat otitis externa is Ciprodex (ciprofloxacin and dexamethasone) otic drops.,otitis externa,otitis externa,indication,ciprofloxacin,ciprofloxacin,Verified,Correct relation.
+What is a common medication used to treat otitis externa?,A common medication used to treat otitis externa is Ciprodex (ciprofloxacin and dexamethasone) otic drops.,otitis externa,otitis externa,indication,dexamethasone,dexamethasone,Verified,Correct relation.
+Can heparin be used for a patient with myocardial infarction (disease)?,"Yes, heparin can be used in patients with myocardial infarction (MI), also known as a heart attack. It's an anticoagulant that helps prevent further clot formation, reducing the risk of another heart attack or stroke. However, it's typically used in conjunction with other medications, such as aspirin and a thrombolytic, and under close medical supervision.",myocardial infarction,myocardial infarction,indication,heparin,heparin,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+Can heparin be used for a patient with myocardial infarction (disease)?,"Yes, heparin can be used in patients with myocardial infarction (MI), also known as a heart attack. It's an anticoagulant that helps prevent further clot formation, reducing the risk of another heart attack or stroke. However, it's typically used in conjunction with other medications, such as aspirin and a thrombolytic, and under close medical supervision.",stroke,,indication,heparin,,Unverifiable,Disease 'stroke' not found in dataset.
+Can you name a standard treatment for bruxism (disease)?,"One standard treatment for bruxism is a dental mouth guard or splint, often accompanied by stress management techniques and sometimes muscle relaxants or Botox injections.",bruxism,,indication,botulinum toxin,,Unverifiable,Disease 'bruxism' not found in dataset.
+I saw that doxylamine is a treatment for papillary conjunctivitis. Is this correct?,"Doxylamine is an antihistamine, and while it may help with allergic symptoms, it's not a primary treatment for papillary conjunctivitis. Papillary conjunctivitis is often treated with lubricating eye drops, antihistamines, or mast cell stabilizers, but doxylamine is typically used for oral administration to treat insomnia or allergies, not specifically for conjunctivitis.",papillary conjunctivitis,papillary conjunctivitis,not indication,doxylamine,doxylamine,Relation Mismatch,"Expected 'indication', got 'not indication'."
+I saw that doxylamine is a treatment for papillary conjunctivitis. Is this correct?,"Doxylamine is an antihistamine, and while it may help with allergic symptoms, it's not a primary treatment for papillary conjunctivitis. Papillary conjunctivitis is often treated with lubricating eye drops, antihistamines, or mast cell stabilizers, but doxylamine is typically used for oral administration to treat insomnia or allergies, not specifically for conjunctivitis.",insomnia,,indication,doxylamine,,Unverifiable,Disease 'insomnia' not found in dataset.
+I saw that doxylamine is a treatment for papillary conjunctivitis. Is this correct?,"Doxylamine is an antihistamine, and while it may help with allergic symptoms, it's not a primary treatment for papillary conjunctivitis. Papillary conjunctivitis is often treated with lubricating eye drops, antihistamines, or mast cell stabilizers, but doxylamine is typically used for oral administration to treat insomnia or allergies, not specifically for conjunctivitis.",allergy,allergy,indication,doxylamine,doxylamine,Hallucination,No edge between 'allergy' and 'doxylamine'.
+Can you list a few other treatments for liver failure other than butobarbital?,"As a medical assistant, I can suggest the following alternative treatments for liver failure:
+
+1. **Liver transplantation**: A surgical procedure to replace the damaged liver with a healthy one.
+2. **MARS (Molecular Adsorbent Recirculating System) therapy**: A type of dialysis that helps remove toxins from the blood.
+3. **Plasma exchange**: A procedure that filters the blood to remove toxins and replace it with healthy plasma.
+4. **Medications to manage symptoms**: Such as lactulose to reduce ammonia levels, and diuretics to manage fluid buildup.
+5. **N-Acetylcysteine (NAC) therapy**: An antioxidant that helps reduce liver damage and promote healing.
+
+Note: These treatments should only be administered under the guidance of a qualified healthcare professional.",liver failure,liver failure,indication,lactulose,lactulose,Hallucination,No edge between 'liver failure' and 'lactulose'.
+Can you list a few other treatments for liver failure other than butobarbital?,"As a medical assistant, I can suggest the following alternative treatments for liver failure:
+
+1. **Liver transplantation**: A surgical procedure to replace the damaged liver with a healthy one.
+2. **MARS (Molecular Adsorbent Recirculating System) therapy**: A type of dialysis that helps remove toxins from the blood.
+3. **Plasma exchange**: A procedure that filters the blood to remove toxins and replace it with healthy plasma.
+4. **Medications to manage symptoms**: Such as lactulose to reduce ammonia levels, and diuretics to manage fluid buildup.
+5. **N-Acetylcysteine (NAC) therapy**: An antioxidant that helps reduce liver damage and promote healing.
+
+Note: These treatments should only be administered under the guidance of a qualified healthcare professional.",liver failure,liver failure,indication,diuretic,diuretic,Hallucination,No edge between 'liver failure' and 'diuretic'.
+Can you list a few other treatments for liver failure other than butobarbital?,"As a medical assistant, I can suggest the following alternative treatments for liver failure:
+
+1. **Liver transplantation**: A surgical procedure to replace the damaged liver with a healthy one.
+2. **MARS (Molecular Adsorbent Recirculating System) therapy**: A type of dialysis that helps remove toxins from the blood.
+3. **Plasma exchange**: A procedure that filters the blood to remove toxins and replace it with healthy plasma.
+4. **Medications to manage symptoms**: Such as lactulose to reduce ammonia levels, and diuretics to manage fluid buildup.
+5. **N-Acetylcysteine (NAC) therapy**: An antioxidant that helps reduce liver damage and promote healing.
+
+Note: These treatments should only be administered under the guidance of a qualified healthcare professional.",liver failure,liver failure,indication,n-acetylcysteine,acetylcysteine,Hallucination,No edge between 'liver failure' and 'acetylcysteine'.
+"If amobarbital doesn't work for porphyrin metabolism disease, what else can be used?","For acute porphyria attacks, if amobarbital is ineffective, other treatment options may include:
+
+1. Hematin: an intravenous medication to reduce porphyrin production.
+2. Glucose: to help reduce demand on the heme biosynthetic pathway.
+3. Pain management: with opioids or other analgesics.
+4. Anti-emetics: to control nausea and vomiting.
+
+It's essential to consult a healthcare professional for proper diagnosis and treatment.",acute porphyria,,not indication,amobarbital,,Unverifiable,Disease 'acute porphyria' not found in dataset.
+"If amobarbital doesn't work for porphyrin metabolism disease, what else can be used?","For acute porphyria attacks, if amobarbital is ineffective, other treatment options may include:
+
+1. Hematin: an intravenous medication to reduce porphyrin production.
+2. Glucose: to help reduce demand on the heme biosynthetic pathway.
+3. Pain management: with opioids or other analgesics.
+4. Anti-emetics: to control nausea and vomiting.
+
+It's essential to consult a healthcare professional for proper diagnosis and treatment.",acute porphyria,,indication,hemin,,Unverifiable,Disease 'acute porphyria' not found in dataset.
+"If amobarbital doesn't work for porphyrin metabolism disease, what else can be used?","For acute porphyria attacks, if amobarbital is ineffective, other treatment options may include:
+
+1. Hematin: an intravenous medication to reduce porphyrin production.
+2. Glucose: to help reduce demand on the heme biosynthetic pathway.
+3. Pain management: with opioids or other analgesics.
+4. Anti-emetics: to control nausea and vomiting.
+
+It's essential to consult a healthcare professional for proper diagnosis and treatment.",acute porphyria,,indication,glucose,,Unverifiable,Disease 'acute porphyria' not found in dataset.
+"If amobarbital doesn't work for porphyrin metabolism disease, what else can be used?","For acute porphyria attacks, if amobarbital is ineffective, other treatment options may include:
+
+1. Hematin: an intravenous medication to reduce porphyrin production.
+2. Glucose: to help reduce demand on the heme biosynthetic pathway.
+3. Pain management: with opioids or other analgesics.
+4. Anti-emetics: to control nausea and vomiting.
+
+It's essential to consult a healthcare professional for proper diagnosis and treatment.",acute porphyria,,indication,opioid,,Unverifiable,Disease 'acute porphyria' not found in dataset.
+"If amobarbital doesn't work for porphyrin metabolism disease, what else can be used?","For acute porphyria attacks, if amobarbital is ineffective, other treatment options may include:
+
+1. Hematin: an intravenous medication to reduce porphyrin production.
+2. Glucose: to help reduce demand on the heme biosynthetic pathway.
+3. Pain management: with opioids or other analgesics.
+4. Anti-emetics: to control nausea and vomiting.
+
+It's essential to consult a healthcare professional for proper diagnosis and treatment.",acute porphyria,,indication,antiemetic,,Unverifiable,Disease 'acute porphyria' not found in dataset.
+What is the main use for the medication oxandrolone?,"The main use for the medication oxandrolone is to help patients gain weight after a severe injury, illness, or surgery, particularly those with muscle wasting conditions. It's also used to treat certain cases of Turner syndrome and HIV/AIDS-related weight loss.",weight loss,weight loss,indication,oxandrolone,oxandrolone,Hallucination,No edge between 'weight loss' and 'oxandrolone'.
+What is the main use for the medication oxandrolone?,"The main use for the medication oxandrolone is to help patients gain weight after a severe injury, illness, or surgery, particularly those with muscle wasting conditions. It's also used to treat certain cases of Turner syndrome and HIV/AIDS-related weight loss.",muscle wasting,,indication,oxandrolone,,Unverifiable,Disease 'muscle wasting' not found in dataset.
+What is the main use for the medication oxandrolone?,"The main use for the medication oxandrolone is to help patients gain weight after a severe injury, illness, or surgery, particularly those with muscle wasting conditions. It's also used to treat certain cases of Turner syndrome and HIV/AIDS-related weight loss.",turner syndrome,turner syndrome,indication,oxandrolone,oxandrolone,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+What is the main use for the medication oxandrolone?,"The main use for the medication oxandrolone is to help patients gain weight after a severe injury, illness, or surgery, particularly those with muscle wasting conditions. It's also used to treat certain cases of Turner syndrome and HIV/AIDS-related weight loss.",hiv infection,hiv infection,indication,oxandrolone,oxandrolone,Hallucination,No edge between 'hiv infection' and 'oxandrolone'.
+Can decitabine be used for a patient with acute myeloid leukemia with minimal differentiation?,"Yes, decitabine can be used to treat acute myeloid leukemia (AML) with minimal differentiation, also known as acute undifferentiated leukemia. It's a hypomethylating agent that can help improve survival and response rates in patients with this subtype of AML.",acute undifferentiated leukemia,acute undifferentiated leukemia,indication,decitabine,decitabine,Hallucination,No edge between 'acute undifferentiated leukemia' and 'decitabine'.
+"Besides dronedarone, what is another common medication for long qt syndrome?","Besides dronedarone, another common medication for Long QT Syndrome is beta blockers, particularly propranolol or metoprolol.",long qt syndrome,long qt syndrome,indication,dronedarone,dronedarone,Relation Mismatch,"Expected 'contraindication', got 'indication'."
+"Besides dronedarone, what is another common medication for long qt syndrome?","Besides dronedarone, another common medication for Long QT Syndrome is beta blockers, particularly propranolol or metoprolol.",long qt syndrome,long qt syndrome,indication,propranolol,propranolol,Hallucination,No edge between 'long qt syndrome' and 'propranolol'.
+"Besides dronedarone, what is another common medication for long qt syndrome?","Besides dronedarone, another common medication for Long QT Syndrome is beta blockers, particularly propranolol or metoprolol.",long qt syndrome,long qt syndrome,indication,metoprolol,metoprolol,Hallucination,No edge between 'long qt syndrome' and 'metoprolol'.
+For what disease would a doctor usually prescribe (rs)-lenalidomide?,"(rs)-Lenalidomide, also known as lenalidomide, is commonly prescribed for the treatment of multiple myeloma and myelodysplastic syndromes.",multiple myeloma,multiple myeloma,indication,lenalidomide,lenalidomide,Hallucination,No edge between 'multiple myeloma' and 'lenalidomide'.
+For what disease would a doctor usually prescribe (rs)-lenalidomide?,"(rs)-Lenalidomide, also known as lenalidomide, is commonly prescribed for the treatment of multiple myeloma and myelodysplastic syndromes.",myelodysplastic syndrome,myelodysplastic syndrome,indication,lenalidomide,lenalidomide,Verified,Correct relation.
+What is a common medication used to treat gastritis?,"A common medication used to treat gastritis is omeprazole, a proton pump inhibitor (PPI) that reduces stomach acid production.",gastritis,gastritis,indication,omeprazole,omeprazole,Verified,Correct relation.
+"Besides demeclocycline, what is another common medication for urinary tract infection (disease)?",Another common medication for urinary tract infections (UTIs) is Trimethoprim/Sulfamethoxazole (also known as Bactrim or Septra).,urinary tract infection,urinary tract infection (disease),indication,trimethoprim sulfamethoxazole,,Unverifiable,Drug 'trimethoprim sulfamethoxazole' not found in dataset.
+Can you list a few other treatments for salmonellosis other than amoxicillin?,"For salmonellosis, other treatments besides amoxicillin include:
+
+1. Ciprofloxacin
+2. Azithromycin
+3. Trimethoprim-sulfamethoxazole
+4. Ceftriaxone (for severe cases)
+5. Fluid replacement and electrolyte management to prevent dehydration.",salmonellosis,salmonellosis,indication,amoxicillin,amoxicillin,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+Can you list a few other treatments for salmonellosis other than amoxicillin?,"For salmonellosis, other treatments besides amoxicillin include:
+
+1. Ciprofloxacin
+2. Azithromycin
+3. Trimethoprim-sulfamethoxazole
+4. Ceftriaxone (for severe cases)
+5. Fluid replacement and electrolyte management to prevent dehydration.",salmonellosis,salmonellosis,indication,ciprofloxacin,ciprofloxacin,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+Can you list a few other treatments for salmonellosis other than amoxicillin?,"For salmonellosis, other treatments besides amoxicillin include:
+
+1. Ciprofloxacin
+2. Azithromycin
+3. Trimethoprim-sulfamethoxazole
+4. Ceftriaxone (for severe cases)
+5. Fluid replacement and electrolyte management to prevent dehydration.",salmonellosis,salmonellosis,indication,azithromycin,azithromycin,Hallucination,No edge between 'salmonellosis' and 'azithromycin'.
+Can you list a few other treatments for salmonellosis other than amoxicillin?,"For salmonellosis, other treatments besides amoxicillin include:
+
+1. Ciprofloxacin
+2. Azithromycin
+3. Trimethoprim-sulfamethoxazole
+4. Ceftriaxone (for severe cases)
+5. Fluid replacement and electrolyte management to prevent dehydration.",salmonellosis,salmonellosis,indication,trimethoprim-sulfamethoxazole,,Unverifiable,Drug 'trimethoprim-sulfamethoxazole' not found in dataset.
+Can you list a few other treatments for salmonellosis other than amoxicillin?,"For salmonellosis, other treatments besides amoxicillin include:
+
+1. Ciprofloxacin
+2. Azithromycin
+3. Trimethoprim-sulfamethoxazole
+4. Ceftriaxone (for severe cases)
+5. Fluid replacement and electrolyte management to prevent dehydration.",salmonellosis,salmonellosis,indication,ceftriaxone,ceftriaxone,Verified,Correct relation.
+"If sulfadiazine doesn't work for g6pd deficiency, what else can be used?","For patients with G6PD deficiency, alternative antibiotics to sulfadiazine include trimethoprim-sulfamethoxazole (if G6PD deficiency is mild), ciprofloxacin, or levofloxacin. It's essential to consult a doctor for proper prescribing and monitoring.",g6pd deficiency,g6pd deficiency,indication,trimethoprim-sulfamethoxazole,,Unverifiable,Drug 'trimethoprim-sulfamethoxazole' not found in dataset.
+"If sulfadiazine doesn't work for g6pd deficiency, what else can be used?","For patients with G6PD deficiency, alternative antibiotics to sulfadiazine include trimethoprim-sulfamethoxazole (if G6PD deficiency is mild), ciprofloxacin, or levofloxacin. It's essential to consult a doctor for proper prescribing and monitoring.",g6pd deficiency,g6pd deficiency,indication,ciprofloxacin,ciprofloxacin,Hallucination,No edge between 'g6pd deficiency' and 'ciprofloxacin'.
+"If sulfadiazine doesn't work for g6pd deficiency, what else can be used?","For patients with G6PD deficiency, alternative antibiotics to sulfadiazine include trimethoprim-sulfamethoxazole (if G6PD deficiency is mild), ciprofloxacin, or levofloxacin. It's essential to consult a doctor for proper prescribing and monitoring.",g6pd deficiency,g6pd deficiency,indication,levofloxacin,levofloxacin,Hallucination,No edge between 'g6pd deficiency' and 'levofloxacin'.
+Can idoxuridine be used for a patient with herpes simplex virus keratitis?,"Idoxuridine is an antiviral medication that can be used to treat herpes simplex virus keratitis, but it's not the first-line treatment due to its potential toxicity and limited efficacy. Other antivirals like trifluridine or ganciclovir are often preferred.",herpes simplex keratitis,herpes simplex virus keratitis,not indication,idoxuridine,idoxuridine,Relation Mismatch,"Expected 'indication', got 'not indication'."
+Can idoxuridine be used for a patient with herpes simplex virus keratitis?,"Idoxuridine is an antiviral medication that can be used to treat herpes simplex virus keratitis, but it's not the first-line treatment due to its potential toxicity and limited efficacy. Other antivirals like trifluridine or ganciclovir are often preferred.",herpes simplex keratitis,herpes simplex virus keratitis,indication,trifluridine,trifluridine,Verified,Correct relation.
+Can idoxuridine be used for a patient with herpes simplex virus keratitis?,"Idoxuridine is an antiviral medication that can be used to treat herpes simplex virus keratitis, but it's not the first-line treatment due to its potential toxicity and limited efficacy. Other antivirals like trifluridine or ganciclovir are often preferred.",herpes simplex keratitis,herpes simplex virus keratitis,indication,ganciclovir,ganciclovir,Verified,Correct relation.
+"If a patient has gastrin secretion abnormality, what drug is usually prescribed?","For a patient with gastrin secretion abnormality, such as Zollinger-Ellison syndrome, a proton pump inhibitor (PPI) like Omeprazole or Lansoprazole is usually prescribed to reduce stomach acid production.",zollinger-ellison syndrome,zollinger-ellison syndrome,indication,omeprazole,omeprazole,Verified,Correct relation.
+"If a patient has gastrin secretion abnormality, what drug is usually prescribed?","For a patient with gastrin secretion abnormality, such as Zollinger-Ellison syndrome, a proton pump inhibitor (PPI) like Omeprazole or Lansoprazole is usually prescribed to reduce stomach acid production.",zollinger-ellison syndrome,zollinger-ellison syndrome,indication,lansoprazole,lansoprazole,Verified,Correct relation.
+What medical condition is besifloxacin typically used to treat?,Besifloxacin is typically used to treat bacterial conjunctivitis (pink eye).,bacterial conjunctivitis,atopic conjunctivitis,indication,besifloxacin,besifloxacin,Hallucination,No edge between 'atopic conjunctivitis' and 'besifloxacin'.
+Is clotrimazole commonly prescribed to treat oral candidiasis?,"Yes, clotrimazole is commonly prescribed to treat oral candidiasis (thrush), often in the form of troches (lozenges) that dissolve in the mouth.",oral candidiasis,oral candidiasis,indication,clotrimazole,clotrimazole,Verified,Correct relation.
+"If a patient has inguinal hernia, what drug is usually prescribed?","For inguinal hernia, no specific medication is usually prescribed to treat the hernia itself. However, pain relief medications such as acetaminophen (Tylenol) or ibuprofen (Advil) may be prescribed to manage discomfort. Surgery is often the recommended treatment for inguinal hernia.",inguinal hernia,inguinal hernia,not indication,acetaminophen,acetaminophen,Hallucination,No edge between 'inguinal hernia' and 'acetaminophen'.
+"If a patient has inguinal hernia, what drug is usually prescribed?","For inguinal hernia, no specific medication is usually prescribed to treat the hernia itself. However, pain relief medications such as acetaminophen (Tylenol) or ibuprofen (Advil) may be prescribed to manage discomfort. Surgery is often the recommended treatment for inguinal hernia.",inguinal hernia,inguinal hernia,not indication,ibuprofen,ibuprofen,Hallucination,No edge between 'inguinal hernia' and 'ibuprofen'.
+For what disease would a doctor usually prescribe aprepitant?,Aprepitant is usually prescribed to prevent chemotherapy-induced nausea and vomiting (CINV).,chemotherapy-induced nausea and vomiting,,indication,aprepitant,,Unverifiable,Disease 'chemotherapy-induced nausea and vomiting' not found in dataset.
+What is the main use for the medication glucerna?,"The main use for the medication Glucerna is to help manage blood sugar levels in patients with diabetes, particularly for those who have difficulty controlling their glucose levels through diet alone. It is a nutritional supplement designed to provide a balanced mix of carbohydrates, protein, and fat to help regulate blood sugar and provide essential nutrients.",diabetes mellitus,type 2 diabetes mellitus,indication,glucerna,glucerna,Hallucination,No edge between 'type 2 diabetes mellitus' and 'glucerna'.
+"If a patient has hypoplastic left heart syndrome, what drug is usually prescribed?","For a patient with hypoplastic left heart syndrome (HLHS), Prostaglandin E1 (PGE1) is typically prescribed to keep the ductus arteriosus open, ensuring blood flow to the body.",hypoplastic left heart syndrome,hypoplastic left heart syndrome,indication,prostaglandin e1,prostaglandin e2,Hallucination,No edge between 'hypoplastic left heart syndrome' and 'prostaglandin e2'.
+"Besides guaifenesin, what is another common medication for autonomic dysreflexia?",Nifedipine is another common medication used to treat autonomic dysreflexia.,autonomic dysreflexia,autonomic dysreflexia,indication,nifedipine,nifedipine,Hallucination,No edge between 'autonomic dysreflexia' and 'nifedipine'.
+Is aurothioglucose commonly prescribed to treat gallbladder disease?,"No, aurothioglucose is not commonly prescribed to treat gallbladder disease. It's an injectable gold salt used to treat rheumatoid arthritis.",gallbladder disease,gallbladder disease,not indication,aurothioglucose,aurothioglucose,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Is aurothioglucose commonly prescribed to treat gallbladder disease?,"No, aurothioglucose is not commonly prescribed to treat gallbladder disease. It's an injectable gold salt used to treat rheumatoid arthritis.",rheumatoid arthritis,rheumatoid arthritis,indication,aurothioglucose,aurothioglucose,Verified,Correct relation.
+Can you name a standard treatment for alcohol withdrawal?,"One standard treatment for alcohol withdrawal is Benzodiazepines, such as diazepam (Valium) or lorazepam (Ativan), to help manage symptoms and prevent seizures.",alcohol withdrawal,alcohol withdrawal,indication,diazepam,diazepam,Verified,Correct relation.
+Can you name a standard treatment for alcohol withdrawal?,"One standard treatment for alcohol withdrawal is Benzodiazepines, such as diazepam (Valium) or lorazepam (Ativan), to help manage symptoms and prevent seizures.",alcohol withdrawal,alcohol withdrawal,indication,lorazepam,lorazepam,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,metoprolol,metoprolol,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,carvedilol,carvedilol,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,furosemide,furosemide,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,hydrochlorothiazide,hydrochlorothiazide,Relation Mismatch,"Expected 'contraindication', got 'indication'."
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,spironolactone,spironolactone,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,losartan,losartan,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,valsartan,valsartan,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,eplerenone,eplerenone,Hallucination,No edge between 'congestive heart failure' and 'eplerenone'.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,hydralazine,hydralazine,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,nitrates,,Unverifiable,Drug 'nitrates' not found in dataset.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",congestive heart failure,congestive heart failure,indication,lisinopril,lisinopril,Verified,Correct relation.
+Can you list a few other treatments for congestive heart failure other than lisinopril?,"Other treatments for congestive heart failure (CHF) include:
+
+1. Beta blockers (metoprolol, carvedilol)
+2. Diuretics (furosemide, hydrochlorothiazide)
+3. Potassium-sparing diuretics (spironolactone)
+4. Angiotensin receptor blockers (losartan, valsartan)
+5. Aldosterone antagonists (eplerenone)
+6. Hydralazine and nitrates (for certain cases)
+7. Digoxin (for atrial fibrillation with rapid ventricular response)
+
+These medications may be used alone or in combination with lisinopril.",atrial fibrillation,,indication,digoxin,,Unverifiable,Disease 'atrial fibrillation' not found in dataset.
+What is the main use for the medication arsenic trioxide?,"The main use for arsenic trioxide is to treat acute promyelocytic leukemia (APL), a type of blood cancer.",acute promyelocytic leukemia,acute promyelocytic leukemia,indication,arsenic trioxide,arsenic trioxide,Verified,Correct relation.
+"Besides ceftazidime, what is another common medication for streptococcal pneumonia?",Another common medication for streptococcal pneumonia is ceftriaxone.,streptococcal pneumonia,streptococcal pneumonia,indication,ceftriaxone,ceftriaxone,Verified,Correct relation.
+I saw that trimethoprim is a treatment for pneumonia. Is this correct?,"Yes, trimethoprim, often in combination with sulfamethoxazole (as trimethoprim/sulfamethoxazole or Bactrim), is used to treat certain types of bacterial pneumonia. However, it's typically reserved for specific cases, such as pneumonia caused by susceptible organisms, and is not a first-line treatment for all types of pneumonia.",bacterial pneumonia,bacterial pneumonia,indication,trimethoprim-sulfamethoxazole,,Unverifiable,Drug 'trimethoprim-sulfamethoxazole' not found in dataset.
+I saw that trimethoprim is a treatment for pneumonia. Is this correct?,"Yes, trimethoprim, often in combination with sulfamethoxazole (as trimethoprim/sulfamethoxazole or Bactrim), is used to treat certain types of bacterial pneumonia. However, it's typically reserved for specific cases, such as pneumonia caused by susceptible organisms, and is not a first-line treatment for all types of pneumonia.",pneumonia,pneumonia,not indication,trimethoprim-sulfamethoxazole,,Unverifiable,Drug 'trimethoprim-sulfamethoxazole' not found in dataset.
+Can you list a few other treatments for congenital prothrombin deficiency other than dextropropoxyphene?,"For congenital prothrombin deficiency, other treatments include:
+
+1. Fresh frozen plasma (FFP) transfusions
+2. Prothrombin complex concentrates (PCCs)
+3. Vitamin K
+4. Antifibrinolytic agents (e.g., tranexamic acid)
+
+These treatments aim to replace or support the deficient prothrombin and prevent or manage bleeding episodes.",congenital prothrombin deficiency,congenital prothrombin deficiency,indication,fresh frozen plasma,,Unverifiable,Drug 'fresh frozen plasma' not found in dataset.
+Can you list a few other treatments for congenital prothrombin deficiency other than dextropropoxyphene?,"For congenital prothrombin deficiency, other treatments include:
+
+1. Fresh frozen plasma (FFP) transfusions
+2. Prothrombin complex concentrates (PCCs)
+3. Vitamin K
+4. Antifibrinolytic agents (e.g., tranexamic acid)
+
+These treatments aim to replace or support the deficient prothrombin and prevent or manage bleeding episodes.",congenital prothrombin deficiency,congenital prothrombin deficiency,indication,prothrombin complex concentrate,,Unverifiable,Drug 'prothrombin complex concentrate' not found in dataset.
+Can you list a few other treatments for congenital prothrombin deficiency other than dextropropoxyphene?,"For congenital prothrombin deficiency, other treatments include:
+
+1. Fresh frozen plasma (FFP) transfusions
+2. Prothrombin complex concentrates (PCCs)
+3. Vitamin K
+4. Antifibrinolytic agents (e.g., tranexamic acid)
+
+These treatments aim to replace or support the deficient prothrombin and prevent or manage bleeding episodes.",congenital prothrombin deficiency,congenital prothrombin deficiency,indication,vitamin k,vitamin k,Hallucination,No edge between 'congenital prothrombin deficiency' and 'vitamin k'.
+Can you list a few other treatments for congenital prothrombin deficiency other than dextropropoxyphene?,"For congenital prothrombin deficiency, other treatments include:
+
+1. Fresh frozen plasma (FFP) transfusions
+2. Prothrombin complex concentrates (PCCs)
+3. Vitamin K
+4. Antifibrinolytic agents (e.g., tranexamic acid)
+
+These treatments aim to replace or support the deficient prothrombin and prevent or manage bleeding episodes.",congenital prothrombin deficiency,congenital prothrombin deficiency,indication,tranexamic acid,tranexamic acid,Hallucination,No edge between 'congenital prothrombin deficiency' and 'tranexamic acid'.
+For what disease would a doctor usually prescribe cap-1002?,"Cap-1002 is not a standard medical term. However, I believe you may be referring to ""CAP"" which is an abbreviation for ""Community-Acquired Pneumonia"" or ""Cefaclor"", an antibiotic. 
+
+If you are referring to Cefaclor (also known as Ceclor), it's a second-generation cephalosporin antibiotic used to treat various bacterial infections such as pneumonia, strep throat, and skin infections.",community-acquired pneumonia,,indication,cefaclor,,Unverifiable,Disease 'community-acquired pneumonia' not found in dataset.
+For what disease would a doctor usually prescribe cap-1002?,"Cap-1002 is not a standard medical term. However, I believe you may be referring to ""CAP"" which is an abbreviation for ""Community-Acquired Pneumonia"" or ""Cefaclor"", an antibiotic. 
+
+If you are referring to Cefaclor (also known as Ceclor), it's a second-generation cephalosporin antibiotic used to treat various bacterial infections such as pneumonia, strep throat, and skin infections.",pneumonia,pneumonia,indication,cefaclor,cefaclor,Verified,Correct relation.
+For what disease would a doctor usually prescribe cap-1002?,"Cap-1002 is not a standard medical term. However, I believe you may be referring to ""CAP"" which is an abbreviation for ""Community-Acquired Pneumonia"" or ""Cefaclor"", an antibiotic. 
+
+If you are referring to Cefaclor (also known as Ceclor), it's a second-generation cephalosporin antibiotic used to treat various bacterial infections such as pneumonia, strep throat, and skin infections.",strep throat,sore throat,indication,cefaclor,cefaclor,Hallucination,No edge between 'sore throat' and 'cefaclor'.
+For what disease would a doctor usually prescribe cap-1002?,"Cap-1002 is not a standard medical term. However, I believe you may be referring to ""CAP"" which is an abbreviation for ""Community-Acquired Pneumonia"" or ""Cefaclor"", an antibiotic. 
+
+If you are referring to Cefaclor (also known as Ceclor), it's a second-generation cephalosporin antibiotic used to treat various bacterial infections such as pneumonia, strep throat, and skin infections.",skin infection,skin infection,indication,cefaclor,cefaclor,Hallucination,No edge between 'skin infection' and 'cefaclor'.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,cefiderocol,cefiderocol,Verified,Correct relation.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,ciprofloxacin,ciprofloxacin,Verified,Correct relation.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,levofloxacin,levofloxacin,Verified,Correct relation.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,amoxicillin/clavulanate,,Unverifiable,Drug 'amoxicillin/clavulanate' not found in dataset.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,trimethoprim/sulfamethoxazole,,Unverifiable,Drug 'trimethoprim/sulfamethoxazole' not found in dataset.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,ceftriaxone,ceftriaxone,Hallucination,No edge between 'pyelonephritis' and 'ceftriaxone'.
+Can you list a few other treatments for pyelonephritis other than cefiderocol?,"Besides cefiderocol, other treatments for pyelonephritis include:
+
+1. Ciprofloxacin
+2. Levofloxacin
+3. Amoxicillin/clavulanate
+4. Trimethoprim/sulfamethoxazole
+5. Ceftriaxone
+6. Piperacillin/tazobactam
+
+These antibiotics may be prescribed depending on the severity and cause of the infection.",pyelonephritis,pyelonephritis,indication,piperacillin/tazobactam,,Unverifiable,Drug 'piperacillin/tazobactam' not found in dataset.
+"I saw that doxorubicin is a treatment for theca steroid-producing cell malignant tumor of ovary, not further specified. Is this correct?","Yes, that's correct. Doxorubicin is a chemotherapy medication that may be used to treat ovarian cancer, including theca cell tumors, which are a type of sex cord-stromal tumor that can produce steroids.",ovarian cancer,ovarian cancer,indication,doxorubicin,doxorubicin,Verified,Correct relation.
+"I saw that doxorubicin is a treatment for theca steroid-producing cell malignant tumor of ovary, not further specified. Is this correct?","Yes, that's correct. Doxorubicin is a chemotherapy medication that may be used to treat ovarian cancer, including theca cell tumors, which are a type of sex cord-stromal tumor that can produce steroids.",theca cell tumor,,indication,doxorubicin,,Unverifiable,Disease 'theca cell tumor' not found in dataset.
+"Besides chlorothiazide, what is another common medication for inherited porphyria?","Besides chlorothiazide, another common medication for inherited porphyria is hematin.",porphyria,porphyria,indication,chlorothiazide,chlorothiazide,Relation Mismatch,"Expected 'contraindication', got 'indication'."
+"Besides chlorothiazide, what is another common medication for inherited porphyria?","Besides chlorothiazide, another common medication for inherited porphyria is hematin.",porphyria,porphyria,indication,hemin,hemin,Hallucination,No edge between 'porphyria' and 'hemin'.
+For what disease would a doctor usually prescribe paclitaxel?,"Paclitaxel is typically prescribed for various types of cancer, including breast, ovarian, lung, and pancreatic cancer. It is often used in combination with other chemotherapy medications.",breast cancer,breast cancer,indication,paclitaxel,paclitaxel,Verified,Correct relation.
+For what disease would a doctor usually prescribe paclitaxel?,"Paclitaxel is typically prescribed for various types of cancer, including breast, ovarian, lung, and pancreatic cancer. It is often used in combination with other chemotherapy medications.",ovarian cancer,ovarian cancer,indication,paclitaxel,paclitaxel,Verified,Correct relation.
+For what disease would a doctor usually prescribe paclitaxel?,"Paclitaxel is typically prescribed for various types of cancer, including breast, ovarian, lung, and pancreatic cancer. It is often used in combination with other chemotherapy medications.",lung cancer,lung cancer,indication,paclitaxel,paclitaxel,Verified,Correct relation.
+For what disease would a doctor usually prescribe paclitaxel?,"Paclitaxel is typically prescribed for various types of cancer, including breast, ovarian, lung, and pancreatic cancer. It is often used in combination with other chemotherapy medications.",pancreatic cancer,,indication,paclitaxel,,Unverifiable,Disease 'pancreatic cancer' not found in dataset.
+Can you name a standard treatment for relapsing polychondritis?,"One standard treatment for relapsing polychondritis is nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids, such as prednisone, to reduce inflammation.",relapsing polychondritis,relapsing polychondritis,indication,nonsteroidal anti-inflammatory drug,,Unverifiable,Drug 'nonsteroidal anti-inflammatory drug' not found in dataset.
+Can you name a standard treatment for relapsing polychondritis?,"One standard treatment for relapsing polychondritis is nonsteroidal anti-inflammatory drugs (NSAIDs) or corticosteroids, such as prednisone, to reduce inflammation.",relapsing polychondritis,relapsing polychondritis,indication,prednisone,prednisone,Hallucination,No edge between 'relapsing polychondritis' and 'prednisone'.
+What medical condition is alpelisib typically used to treat?,"Alpelisib is typically used to treat HR-positive, HER2-negative advanced or metastatic breast cancer with a PIK3CA mutation.",breast cancer,breast cancer,indication,alpelisib,alpelisib,Verified,Correct relation.
+What is a common medication used to treat congenital sucrase-isomaltase deficiency?,A common medication used to treat congenital sucrase-isomaltase deficiency is sacrosidase (Sucraid).,congenital sucrase-isomaltase deficiency,congenital sucrase-isomaltase deficiency,indication,sacrosidase,sacrosidase,Verified,Correct relation.
+What is a common medication used to treat superior limbic keratoconjunctivitis?,"A common medication used to treat superior limbic keratoconjunctivitis is Loteprednol etabonate, a corticosteroid eye drop.",superior limbic keratoconjunctivitis,superior limbic keratoconjunctivitis,indication,loteprednol etabonate,loteprednol etabonate,Hallucination,No edge between 'superior limbic keratoconjunctivitis' and 'loteprednol etabonate'.
+What is the main use for the medication flunisolide?,"The main use for the medication flunisolide is to treat allergic rhinitis and asthma as an inhalant, helping to reduce inflammation in the nasal passages and lungs.",allergic rhinitis,allergic rhinitis,indication,flunisolide,flunisolide,Verified,Correct relation.
+What is the main use for the medication flunisolide?,"The main use for the medication flunisolide is to treat allergic rhinitis and asthma as an inhalant, helping to reduce inflammation in the nasal passages and lungs.",asthma,asthma,indication,flunisolide,flunisolide,Verified,Correct relation.
+Can you list a few other treatments for rare urinary tract tumor other than pazopanib?,"For rare urinary tract tumors, other treatments besides pazopanib include:
+
+1. Sunitinib
+2. Nivolumab
+3. Cabozantinib
+4. Gemcitabine
+5. Cisplatin-based chemotherapy
+
+These treatments may vary depending on the specific type and stage of the tumor.",urinary tract tumor,rare urinary tract tumor,indication,pazopanib,pazopanib,Verified,Correct relation.
+Can you list a few other treatments for rare urinary tract tumor other than pazopanib?,"For rare urinary tract tumors, other treatments besides pazopanib include:
+
+1. Sunitinib
+2. Nivolumab
+3. Cabozantinib
+4. Gemcitabine
+5. Cisplatin-based chemotherapy
+
+These treatments may vary depending on the specific type and stage of the tumor.",urinary tract tumor,rare urinary tract tumor,indication,sunitinib,sunitinib,Verified,Correct relation.
+Can you list a few other treatments for rare urinary tract tumor other than pazopanib?,"For rare urinary tract tumors, other treatments besides pazopanib include:
+
+1. Sunitinib
+2. Nivolumab
+3. Cabozantinib
+4. Gemcitabine
+5. Cisplatin-based chemotherapy
+
+These treatments may vary depending on the specific type and stage of the tumor.",urinary tract tumor,rare urinary tract tumor,indication,nivolumab,nivolumab,Hallucination,No edge between 'rare urinary tract tumor' and 'nivolumab'.
+Can you list a few other treatments for rare urinary tract tumor other than pazopanib?,"For rare urinary tract tumors, other treatments besides pazopanib include:
+
+1. Sunitinib
+2. Nivolumab
+3. Cabozantinib
+4. Gemcitabine
+5. Cisplatin-based chemotherapy
+
+These treatments may vary depending on the specific type and stage of the tumor.",urinary tract tumor,rare urinary tract tumor,indication,cabozantinib,cabozantinib,Hallucination,No edge between 'rare urinary tract tumor' and 'cabozantinib'.
+Can you list a few other treatments for rare urinary tract tumor other than pazopanib?,"For rare urinary tract tumors, other treatments besides pazopanib include:
+
+1. Sunitinib
+2. Nivolumab
+3. Cabozantinib
+4. Gemcitabine
+5. Cisplatin-based chemotherapy
+
+These treatments may vary depending on the specific type and stage of the tumor.",urinary tract tumor,rare urinary tract tumor,indication,gemcitabine,gemcitabine,Hallucination,No edge between 'rare urinary tract tumor' and 'gemcitabine'.
+Can you list a few other treatments for rare urinary tract tumor other than pazopanib?,"For rare urinary tract tumors, other treatments besides pazopanib include:
+
+1. Sunitinib
+2. Nivolumab
+3. Cabozantinib
+4. Gemcitabine
+5. Cisplatin-based chemotherapy
+
+These treatments may vary depending on the specific type and stage of the tumor.",urinary tract tumor,rare urinary tract tumor,indication,cisplatin,cisplatin,Hallucination,No edge between 'rare urinary tract tumor' and 'cisplatin'.
+"If amphetamine doesn't work for attention deficit hyperactivity disorder, inattentive type, what else can be used?","If amphetamine doesn't work for ADHD, inattentive type, alternative options may include:
+
+1. Atomoxetine (Strattera)
+2. Guanfacine (Intuniv)
+3. Other stimulants like methylphenidate (Ritalin)
+4. Non-stimulant medications like viloxazine (Qelbree)
+
+Consult a healthcare professional for personalized treatment.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",not indication,amphetamine,amphetamine,Relation Mismatch,"Expected 'indication', got 'not indication'."
+"If amphetamine doesn't work for attention deficit hyperactivity disorder, inattentive type, what else can be used?","If amphetamine doesn't work for ADHD, inattentive type, alternative options may include:
+
+1. Atomoxetine (Strattera)
+2. Guanfacine (Intuniv)
+3. Other stimulants like methylphenidate (Ritalin)
+4. Non-stimulant medications like viloxazine (Qelbree)
+
+Consult a healthcare professional for personalized treatment.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",indication,atomoxetine,atomoxetine,Verified,Correct relation.
+"If amphetamine doesn't work for attention deficit hyperactivity disorder, inattentive type, what else can be used?","If amphetamine doesn't work for ADHD, inattentive type, alternative options may include:
+
+1. Atomoxetine (Strattera)
+2. Guanfacine (Intuniv)
+3. Other stimulants like methylphenidate (Ritalin)
+4. Non-stimulant medications like viloxazine (Qelbree)
+
+Consult a healthcare professional for personalized treatment.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",indication,guanfacine,guanfacine,Verified,Correct relation.
+"If amphetamine doesn't work for attention deficit hyperactivity disorder, inattentive type, what else can be used?","If amphetamine doesn't work for ADHD, inattentive type, alternative options may include:
+
+1. Atomoxetine (Strattera)
+2. Guanfacine (Intuniv)
+3. Other stimulants like methylphenidate (Ritalin)
+4. Non-stimulant medications like viloxazine (Qelbree)
+
+Consult a healthcare professional for personalized treatment.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",indication,methylphenidate,methylphenidate,Verified,Correct relation.
+"If amphetamine doesn't work for attention deficit hyperactivity disorder, inattentive type, what else can be used?","If amphetamine doesn't work for ADHD, inattentive type, alternative options may include:
+
+1. Atomoxetine (Strattera)
+2. Guanfacine (Intuniv)
+3. Other stimulants like methylphenidate (Ritalin)
+4. Non-stimulant medications like viloxazine (Qelbree)
+
+Consult a healthcare professional for personalized treatment.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",indication,viloxazine,viloxazine,Hallucination,"No edge between 'attention deficit hyperactivity disorder, inattentive type' and 'viloxazine'."
+"Besides hydrocortisone, what is another common medication for respiratory failure?","Besides hydrocortisone, another common medication for respiratory failure is albuterol, a bronchodilator that helps relax airway muscles and improve breathing.",respiratory failure,respiratory failure,indication,hydrocortisone,hydrocortisone,Relation Mismatch,"Expected 'contraindication', got 'indication'."
+"Besides hydrocortisone, what is another common medication for respiratory failure?","Besides hydrocortisone, another common medication for respiratory failure is albuterol, a bronchodilator that helps relax airway muscles and improve breathing.",respiratory failure,respiratory failure,indication,albuterol,levalbuterol,Hallucination,No edge between 'respiratory failure' and 'levalbuterol'.
+"If a patient has ataxia-pancytopenia syndrome, what drug is usually prescribed?","For ataxia-pancytopenia syndrome, the drug usually prescribed is Eculizumab.",ataxia-pancytopenia syndrome,ataxia-pancytopenia syndrome,indication,eculizumab,eculizumab,Hallucination,No edge between 'ataxia-pancytopenia syndrome' and 'eculizumab'.
+"If fusidic acid doesn't work for wolff-parkinson-white syndrome (disease), what else can be used?","For Wolff-Parkinson-White (WPW) syndrome, if fusidic acid is not effective, other treatment options may include:
+
+1. Adenosine
+2. Beta blockers (e.g., propranolol)
+3. Calcium channel blockers (e.g., verapamil)
+4. Anti-arrhythmic medications (e.g., amiodarone, flecainide)
+5. Radiofrequency ablation (a procedure to destroy the accessory electrical pathway)
+
+These options should be guided by a cardiologist or healthcare professional.",wolff-parkinson-white syndrome,wolff–parkinson–white syndrome,not indication,fusidic acid,fusidic acid,Hallucination,No edge between 'wolff–parkinson–white syndrome' and 'fusidic acid'.
+"If fusidic acid doesn't work for wolff-parkinson-white syndrome (disease), what else can be used?","For Wolff-Parkinson-White (WPW) syndrome, if fusidic acid is not effective, other treatment options may include:
+
+1. Adenosine
+2. Beta blockers (e.g., propranolol)
+3. Calcium channel blockers (e.g., verapamil)
+4. Anti-arrhythmic medications (e.g., amiodarone, flecainide)
+5. Radiofrequency ablation (a procedure to destroy the accessory electrical pathway)
+
+These options should be guided by a cardiologist or healthcare professional.",wolff-parkinson-white syndrome,wolff–parkinson–white syndrome,indication,adenosine,adenosine,Verified,Correct relation.
+"If fusidic acid doesn't work for wolff-parkinson-white syndrome (disease), what else can be used?","For Wolff-Parkinson-White (WPW) syndrome, if fusidic acid is not effective, other treatment options may include:
+
+1. Adenosine
+2. Beta blockers (e.g., propranolol)
+3. Calcium channel blockers (e.g., verapamil)
+4. Anti-arrhythmic medications (e.g., amiodarone, flecainide)
+5. Radiofrequency ablation (a procedure to destroy the accessory electrical pathway)
+
+These options should be guided by a cardiologist or healthcare professional.",wolff-parkinson-white syndrome,wolff–parkinson–white syndrome,indication,propranolol,propranolol,Hallucination,No edge between 'wolff–parkinson–white syndrome' and 'propranolol'.
+"If fusidic acid doesn't work for wolff-parkinson-white syndrome (disease), what else can be used?","For Wolff-Parkinson-White (WPW) syndrome, if fusidic acid is not effective, other treatment options may include:
+
+1. Adenosine
+2. Beta blockers (e.g., propranolol)
+3. Calcium channel blockers (e.g., verapamil)
+4. Anti-arrhythmic medications (e.g., amiodarone, flecainide)
+5. Radiofrequency ablation (a procedure to destroy the accessory electrical pathway)
+
+These options should be guided by a cardiologist or healthcare professional.",wolff-parkinson-white syndrome,wolff–parkinson–white syndrome,indication,verapamil,verapamil,Hallucination,No edge between 'wolff–parkinson–white syndrome' and 'verapamil'.
+"If fusidic acid doesn't work for wolff-parkinson-white syndrome (disease), what else can be used?","For Wolff-Parkinson-White (WPW) syndrome, if fusidic acid is not effective, other treatment options may include:
+
+1. Adenosine
+2. Beta blockers (e.g., propranolol)
+3. Calcium channel blockers (e.g., verapamil)
+4. Anti-arrhythmic medications (e.g., amiodarone, flecainide)
+5. Radiofrequency ablation (a procedure to destroy the accessory electrical pathway)
+
+These options should be guided by a cardiologist or healthcare professional.",wolff-parkinson-white syndrome,wolff–parkinson–white syndrome,indication,amiodarone,amiodarone,Hallucination,No edge between 'wolff–parkinson–white syndrome' and 'amiodarone'.
+"If fusidic acid doesn't work for wolff-parkinson-white syndrome (disease), what else can be used?","For Wolff-Parkinson-White (WPW) syndrome, if fusidic acid is not effective, other treatment options may include:
+
+1. Adenosine
+2. Beta blockers (e.g., propranolol)
+3. Calcium channel blockers (e.g., verapamil)
+4. Anti-arrhythmic medications (e.g., amiodarone, flecainide)
+5. Radiofrequency ablation (a procedure to destroy the accessory electrical pathway)
+
+These options should be guided by a cardiologist or healthcare professional.",wolff-parkinson-white syndrome,wolff–parkinson–white syndrome,indication,flecainide,flecainide,Hallucination,No edge between 'wolff–parkinson–white syndrome' and 'flecainide'.
+What is a common medication used to treat gram-positive bacterial infections?,Vancomycin is a common medication used to treat gram-positive bacterial infections.,gram-positive bacterial infection,gram-positive bacterial infections,indication,vancomycin,vancomycin,Hallucination,No edge between 'gram-positive bacterial infections' and 'vancomycin'.
+Can you name a standard treatment for kimura disease?,"For Kimura disease, a standard treatment typically involves surgery to remove the affected tissue, and/or steroid therapy to reduce inflammation.",kimura disease,kimura disease,indication,corticosteroid,corticotropin,Hallucination,No edge between 'kimura disease' and 'corticotropin'.
+Is phendimetrazine commonly prescribed to treat hyperthyroidism?,"No, phendimetrazine is not commonly prescribed to treat hyperthyroidism. It's an appetite suppressant used for weight loss, typically in obesity cases. Hyperthyroidism is usually treated with medications that reduce thyroid hormone production, such as methimazole, or radioactive iodine therapy.",hyperthyroidism,hyperthyroidism,not indication,phendimetrazine,phendimetrazine,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Is phendimetrazine commonly prescribed to treat hyperthyroidism?,"No, phendimetrazine is not commonly prescribed to treat hyperthyroidism. It's an appetite suppressant used for weight loss, typically in obesity cases. Hyperthyroidism is usually treated with medications that reduce thyroid hormone production, such as methimazole, or radioactive iodine therapy.",obesity,,indication,phendimetrazine,,Unverifiable,Disease 'obesity' not found in dataset.
+Is phendimetrazine commonly prescribed to treat hyperthyroidism?,"No, phendimetrazine is not commonly prescribed to treat hyperthyroidism. It's an appetite suppressant used for weight loss, typically in obesity cases. Hyperthyroidism is usually treated with medications that reduce thyroid hormone production, such as methimazole, or radioactive iodine therapy.",hyperthyroidism,hyperthyroidism,indication,methimazole,methimazole,Verified,Correct relation.
+Is phendimetrazine commonly prescribed to treat hyperthyroidism?,"No, phendimetrazine is not commonly prescribed to treat hyperthyroidism. It's an appetite suppressant used for weight loss, typically in obesity cases. Hyperthyroidism is usually treated with medications that reduce thyroid hormone production, such as methimazole, or radioactive iodine therapy.",hyperthyroidism,hyperthyroidism,indication,radioactive iodine,,Unverifiable,Drug 'radioactive iodine' not found in dataset.
+What is the main use for the medication diphenhydramine?,"Diphenhydramine is primarily used as an antihistamine to relieve symptoms of allergies, such as itching, sneezing, and runny nose. It's also used to treat insomnia, motion sickness, and as a mild sedative.",allergy,allergy,indication,diphenhydramine,diphenhydramine,Hallucination,No edge between 'allergy' and 'diphenhydramine'.
+What is the main use for the medication diphenhydramine?,"Diphenhydramine is primarily used as an antihistamine to relieve symptoms of allergies, such as itching, sneezing, and runny nose. It's also used to treat insomnia, motion sickness, and as a mild sedative.",insomnia,,indication,diphenhydramine,,Unverifiable,Disease 'insomnia' not found in dataset.
+What is the main use for the medication diphenhydramine?,"Diphenhydramine is primarily used as an antihistamine to relieve symptoms of allergies, such as itching, sneezing, and runny nose. It's also used to treat insomnia, motion sickness, and as a mild sedative.",motion sickness,motion sickness,indication,diphenhydramine,diphenhydramine,Verified,Correct relation.
+"If ethinylestradiol doesn't work for ovarian clear cell adenocarcinoma, what else can be used?","For ovarian clear cell adenocarcinoma, if ethinylestradiol doesn't work, other treatment options may include:
+
+1. Chemotherapy (e.g., carboplatin, paclitaxel)
+2. Targeted therapy (e.g., bevacizumab)
+3. Immunotherapy
+4. Surgery (e.g., tumor debulking)
+5. Radiation therapy
+
+Consult an oncologist for personalized treatment planning.",ovarian clear cell carcinoma,ovarian clear cell adenocarcinoma,indication,carboplatin,carboplatin,Verified,Correct relation.
+"If ethinylestradiol doesn't work for ovarian clear cell adenocarcinoma, what else can be used?","For ovarian clear cell adenocarcinoma, if ethinylestradiol doesn't work, other treatment options may include:
+
+1. Chemotherapy (e.g., carboplatin, paclitaxel)
+2. Targeted therapy (e.g., bevacizumab)
+3. Immunotherapy
+4. Surgery (e.g., tumor debulking)
+5. Radiation therapy
+
+Consult an oncologist for personalized treatment planning.",ovarian clear cell carcinoma,ovarian clear cell adenocarcinoma,indication,paclitaxel,paclitaxel,Verified,Correct relation.
+"If ethinylestradiol doesn't work for ovarian clear cell adenocarcinoma, what else can be used?","For ovarian clear cell adenocarcinoma, if ethinylestradiol doesn't work, other treatment options may include:
+
+1. Chemotherapy (e.g., carboplatin, paclitaxel)
+2. Targeted therapy (e.g., bevacizumab)
+3. Immunotherapy
+4. Surgery (e.g., tumor debulking)
+5. Radiation therapy
+
+Consult an oncologist for personalized treatment planning.",ovarian clear cell carcinoma,ovarian clear cell adenocarcinoma,indication,bevacizumab,bevacizumab,Hallucination,No edge between 'ovarian clear cell adenocarcinoma' and 'bevacizumab'.
+"If ethinylestradiol doesn't work for ovarian clear cell adenocarcinoma, what else can be used?","For ovarian clear cell adenocarcinoma, if ethinylestradiol doesn't work, other treatment options may include:
+
+1. Chemotherapy (e.g., carboplatin, paclitaxel)
+2. Targeted therapy (e.g., bevacizumab)
+3. Immunotherapy
+4. Surgery (e.g., tumor debulking)
+5. Radiation therapy
+
+Consult an oncologist for personalized treatment planning.",ovarian clear cell carcinoma,ovarian clear cell adenocarcinoma,not indication,ethinylestradiol,ethinylestradiol,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+For what disease would a doctor usually prescribe flunisolide?,A doctor would usually prescribe flunisolide for allergic rhinitis (hay fever) or other respiratory allergies. It's a corticosteroid nasal spray that helps reduce inflammation and congestion.,allergic rhinitis,allergic rhinitis,indication,flunisolide,flunisolide,Verified,Correct relation.
+For what disease would a doctor usually prescribe flunisolide?,A doctor would usually prescribe flunisolide for allergic rhinitis (hay fever) or other respiratory allergies. It's a corticosteroid nasal spray that helps reduce inflammation and congestion.,respiratory allergy,,indication,flunisolide,,Unverifiable,Disease 'respiratory allergy' not found in dataset.
+For what disease would a doctor usually prescribe darbepoetin alfa?,Darbepoetin alfa is usually prescribed for anemia caused by chronic kidney disease or chemotherapy.,anemia,,indication,darbepoetin alfa,,Unverifiable,Disease 'anemia' not found in dataset.
+"Can you name a standard treatment for classic hodgkin lymphoma, lymphocyte-rich type?","One standard treatment for classic Hodgkin lymphoma, lymphocyte-rich type, is ABVD chemotherapy (Adriamycin, Bleomycin, Vinblastine, and Dacarbazine), often combined with radiation therapy.",classic hodgkin lymphoma,classic hodgkin lymphoma,indication,doxorubicin,doxorubicin,Verified,Correct relation.
+"Can you name a standard treatment for classic hodgkin lymphoma, lymphocyte-rich type?","One standard treatment for classic Hodgkin lymphoma, lymphocyte-rich type, is ABVD chemotherapy (Adriamycin, Bleomycin, Vinblastine, and Dacarbazine), often combined with radiation therapy.",classic hodgkin lymphoma,classic hodgkin lymphoma,indication,bleomycin,bleomycin,Verified,Correct relation.
+"Can you name a standard treatment for classic hodgkin lymphoma, lymphocyte-rich type?","One standard treatment for classic Hodgkin lymphoma, lymphocyte-rich type, is ABVD chemotherapy (Adriamycin, Bleomycin, Vinblastine, and Dacarbazine), often combined with radiation therapy.",classic hodgkin lymphoma,classic hodgkin lymphoma,indication,vinblastine,vinblastine,Verified,Correct relation.
+"Can you name a standard treatment for classic hodgkin lymphoma, lymphocyte-rich type?","One standard treatment for classic Hodgkin lymphoma, lymphocyte-rich type, is ABVD chemotherapy (Adriamycin, Bleomycin, Vinblastine, and Dacarbazine), often combined with radiation therapy.",classic hodgkin lymphoma,classic hodgkin lymphoma,indication,dacarbazine,dacarbazine,Verified,Correct relation.
+For what disease would a doctor usually prescribe venetoclax?,"Venetoclax is typically prescribed for certain types of blood cancers, including chronic lymphocytic leukemia (CLL) and acute myeloid leukemia (AML).",chronic lymphocytic leukemia,acute lymphocytic leukemia,indication,venetoclax,venetoclax,Hallucination,No edge between 'acute lymphocytic leukemia' and 'venetoclax'.
+For what disease would a doctor usually prescribe venetoclax?,"Venetoclax is typically prescribed for certain types of blood cancers, including chronic lymphocytic leukemia (CLL) and acute myeloid leukemia (AML).",acute myeloid leukemia,myeloid leukemia,indication,venetoclax,venetoclax,Verified,Correct relation.
+"If pazopanib doesn't work for torsades de pointes, what else can be used?","If pazopanib exacerbates or doesn't work for torsades de pointes, other treatment options may include:
+
+1. Magnesium sulfate
+2. Potassium supplements
+3. Isoproterenol or other beta-agonists
+4. Overdrive pacing
+
+These alternatives can help stabilize the heart rhythm and manage torsades de pointes. It's essential to consult a healthcare provider for proper diagnosis and treatment.",torsades de pointes,torsades de pointes,contraindication,pazopanib,pazopanib,Verified,Correct relation.
+"If pazopanib doesn't work for torsades de pointes, what else can be used?","If pazopanib exacerbates or doesn't work for torsades de pointes, other treatment options may include:
+
+1. Magnesium sulfate
+2. Potassium supplements
+3. Isoproterenol or other beta-agonists
+4. Overdrive pacing
+
+These alternatives can help stabilize the heart rhythm and manage torsades de pointes. It's essential to consult a healthcare provider for proper diagnosis and treatment.",torsades de pointes,torsades de pointes,not indication,pazopanib,pazopanib,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+"If pazopanib doesn't work for torsades de pointes, what else can be used?","If pazopanib exacerbates or doesn't work for torsades de pointes, other treatment options may include:
+
+1. Magnesium sulfate
+2. Potassium supplements
+3. Isoproterenol or other beta-agonists
+4. Overdrive pacing
+
+These alternatives can help stabilize the heart rhythm and manage torsades de pointes. It's essential to consult a healthcare provider for proper diagnosis and treatment.",torsades de pointes,torsades de pointes,indication,magnesium sulfate,magnesium sulfate,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+"If pazopanib doesn't work for torsades de pointes, what else can be used?","If pazopanib exacerbates or doesn't work for torsades de pointes, other treatment options may include:
+
+1. Magnesium sulfate
+2. Potassium supplements
+3. Isoproterenol or other beta-agonists
+4. Overdrive pacing
+
+These alternatives can help stabilize the heart rhythm and manage torsades de pointes. It's essential to consult a healthcare provider for proper diagnosis and treatment.",torsades de point es,torsades de pointes,indication,potassium,,Unverifiable,Drug 'potassium' not found in dataset.
+"If pazopanib doesn't work for torsades de pointes, what else can be used?","If pazopanib exacerbates or doesn't work for torsades de pointes, other treatment options may include:
+
+1. Magnesium sulfate
+2. Potassium supplements
+3. Isoproterenol or other beta-agonists
+4. Overdrive pacing
+
+These alternatives can help stabilize the heart rhythm and manage torsades de pointes. It's essential to consult a healthcare provider for proper diagnosis and treatment.",torsades de point es,torsades de pointes,indication,isoproterenol,,Unverifiable,Drug 'isoproterenol' not found in dataset.
+"If pazopanib doesn't work for torsades de pointes, what else can be used?","If pazopanib exacerbates or doesn't work for torsades de pointes, other treatment options may include:
+
+1. Magnesium sulfate
+2. Potassium supplements
+3. Isoproterenol or other beta-agonists
+4. Overdrive pacing
+
+These alternatives can help stabilize the heart rhythm and manage torsades de pointes. It's essential to consult a healthcare provider for proper diagnosis and treatment.",torsades de point es,torsades de pointes,indication,beta-agonist,,Unverifiable,Drug 'beta-agonist' not found in dataset.
+"If a patient has papillary conjunctivitis, what drug is usually prescribed?","For papillary conjunctivitis, a mast cell stabilizer such as cromolyn sodium or an antihistamine-mast cell stabilizer like olapatadine is typically prescribed.",papillary conjunctivitis,papillary conjunctivitis,indication,cromolyn sodium,,Unverifiable,Drug 'cromolyn sodium' not found in dataset.
+"If a patient has papillary conjunctivitis, what drug is usually prescribed?","For papillary conjunctivitis, a mast cell stabilizer such as cromolyn sodium or an antihistamine-mast cell stabilizer like olapatadine is typically prescribed.",papillary conjunctivitis,papillary conjunctivitis,indication,olopatadine,olopatadine,Verified,Correct relation.
+"If a patient has breast neoplasm, what drug is usually prescribed?","For a patient with breast neoplasm (breast cancer), the prescribed medication often depends on the type and stage of the cancer. However, common medications include:
+
+1. Tamoxifen (for hormone receptor-positive breast cancer)
+2. Aromatase inhibitors (e.g., anastrozole, letrozole) for post-menopausal women with hormone receptor-positive breast cancer
+3. Trastuzumab (Herceptin) for HER2-positive breast cancer
+4. Chemotherapy agents (e.g., doxorubicin, cyclophosphamide) for various stages and types of breast cancer.
+
+Note: The specific medication and treatment plan will be determined by the patient's oncologist based on individual needs and diagnosis.",hormone receptor-positive breast cancer,,indication,tamoxifen,,Unverifiable,Disease 'hormone receptor-positive breast cancer' not found in dataset.
+"If a patient has breast neoplasm, what drug is usually prescribed?","For a patient with breast neoplasm (breast cancer), the prescribed medication often depends on the type and stage of the cancer. However, common medications include:
+
+1. Tamoxifen (for hormone receptor-positive breast cancer)
+2. Aromatase inhibitors (e.g., anastrozole, letrozole) for post-menopausal women with hormone receptor-positive breast cancer
+3. Trastuzumab (Herceptin) for HER2-positive breast cancer
+4. Chemotherapy agents (e.g., doxorubicin, cyclophosphamide) for various stages and types of breast cancer.
+
+Note: The specific medication and treatment plan will be determined by the patient's oncologist based on individual needs and diagnosis.",hormone receptor-positive breast cancer,,indication,anastrozole,,Unverifiable,Disease 'hormone receptor-positive breast cancer' not found in dataset.
+"If a patient has breast neoplasm, what drug is usually prescribed?","For a patient with breast neoplasm (breast cancer), the prescribed medication often depends on the type and stage of the cancer. However, common medications include:
+
+1. Tamoxifen (for hormone receptor-positive breast cancer)
+2. Aromatase inhibitors (e.g., anastrozole, letrozole) for post-menopausal women with hormone receptor-positive breast cancer
+3. Trastuzumab (Herceptin) for HER2-positive breast cancer
+4. Chemotherapy agents (e.g., doxorubicin, cyclophosphamide) for various stages and types of breast cancer.
+
+Note: The specific medication and treatment plan will be determined by the patient's oncologist based on individual needs and diagnosis.",hormone receptor-positive breast cancer,,indication,letrozole,,Unverifiable,Disease 'hormone receptor-positive breast cancer' not found in dataset.
+"If a patient has breast neoplasm, what drug is usually prescribed?","For a patient with breast neoplasm (breast cancer), the prescribed medication often depends on the type and stage of the cancer. However, common medications include:
+
+1. Tamoxifen (for hormone receptor-positive breast cancer)
+2. Aromatase inhibitors (e.g., anastrozole, letrozole) for post-menopausal women with hormone receptor-positive breast cancer
+3. Trastuzumab (Herceptin) for HER2-positive breast cancer
+4. Chemotherapy agents (e.g., doxorubicin, cyclophosphamide) for various stages and types of breast cancer.
+
+Note: The specific medication and treatment plan will be determined by the patient's oncologist based on individual needs and diagnosis.",her2-positive breast cancer,her2 positive breast carcinoma,indication,trastuzumab,trastuzumab,Verified,Correct relation.
+"If a patient has breast neoplasm, what drug is usually prescribed?","For a patient with breast neoplasm (breast cancer), the prescribed medication often depends on the type and stage of the cancer. However, common medications include:
+
+1. Tamoxifen (for hormone receptor-positive breast cancer)
+2. Aromatase inhibitors (e.g., anastrozole, letrozole) for post-menopausal women with hormone receptor-positive breast cancer
+3. Trastuzumab (Herceptin) for HER2-positive breast cancer
+4. Chemotherapy agents (e.g., doxorubicin, cyclophosphamide) for various stages and types of breast cancer.
+
+Note: The specific medication and treatment plan will be determined by the patient's oncologist based on individual needs and diagnosis.",breast cancer,breast cancer,indication,doxorubicin,doxorubicin,Verified,Correct relation.
+"If a patient has breast neoplasm, what drug is usually prescribed?","For a patient with breast neoplasm (breast cancer), the prescribed medication often depends on the type and stage of the cancer. However, common medications include:
+
+1. Tamoxifen (for hormone receptor-positive breast cancer)
+2. Aromatase inhibitors (e.g., anastrozole, letrozole) for post-menopausal women with hormone receptor-positive breast cancer
+3. Trastuzumab (Herceptin) for HER2-positive breast cancer
+4. Chemotherapy agents (e.g., doxorubicin, cyclophosphamide) for various stages and types of breast cancer.
+
+Note: The specific medication and treatment plan will be determined by the patient's oncologist based on individual needs and diagnosis.",breast cancer,breast cancer,indication,cyclophosphamide,cyclophosphamide,Hallucination,No edge between 'breast cancer' and 'cyclophosphamide'.
+"If irbesartan doesn't work for hypercalcemia disease, what else can be used?","If irbesartan (an ARB) doesn't work for hypercalcemia, other treatment options may include:
+
+1. Bisphosphonates (e.g., alendronate, zoledronic acid)
+2. Calcimimetics (e.g., cinacalcet)
+3. Glucocorticoids
+4. IV hydration and loop diuretics to enhance calcium excretion
+5. Dialysis in severe cases
+
+Consult a healthcare provider for personalized treatment.",hypercalcemia,hyperaemia,not indication,irbesartan,irbesartan,Hallucination,No edge between 'hyperaemia' and 'irbesartan'.
+"If irbesartan doesn't work for hypercalcemia disease, what else can be used?","If irbesartan (an ARB) doesn't work for hypercalcemia, other treatment options may include:
+
+1. Bisphosphonates (e.g., alendronate, zoledronic acid)
+2. Calcimimetics (e.g., cinacalcet)
+3. Glucocorticoids
+4. IV hydration and loop diuretics to enhance calcium excretion
+5. Dialysis in severe cases
+
+Consult a healthcare provider for personalized treatment.",hypercalcemia,hyperaemia,indication,alendronate,ibandronate,Hallucination,No edge between 'hyperaemia' and 'ibandronate'.
+"If irbesartan doesn't work for hypercalcemia disease, what else can be used?","If irbesartan (an ARB) doesn't work for hypercalcemia, other treatment options may include:
+
+1. Bisphosphonates (e.g., alendronate, zoledronic acid)
+2. Calcimimetics (e.g., cinacalcet)
+3. Glucocorticoids
+4. IV hydration and loop diuretics to enhance calcium excretion
+5. Dialysis in severe cases
+
+Consult a healthcare provider for personalized treatment.",hypercalcemia,hyperaemia,indication,zoledronic acid,zoledronic acid,Hallucination,No edge between 'hyperaemia' and 'zoledronic acid'.
+"If irbesartan doesn't work for hypercalcemia disease, what else can be used?","If irbesartan (an ARB) doesn't work for hypercalcemia, other treatment options may include:
+
+1. Bisphosphonates (e.g., alendronate, zoledronic acid)
+2. Calcimimetics (e.g., cinacalcet)
+3. Glucocorticoids
+4. IV hydration and loop diuretics to enhance calcium excretion
+5. Dialysis in severe cases
+
+Consult a healthcare provider for personalized treatment.",hypercalcemia,hyperaemia,indication,cinacalcet,cinacalcet,Hallucination,No edge between 'hyperaemia' and 'cinacalcet'.
+"If irbesartan doesn't work for hypercalcemia disease, what else can be used?","If irbesartan (an ARB) doesn't work for hypercalcemia, other treatment options may include:
+
+1. Bisphosphonates (e.g., alendronate, zoledronic acid)
+2. Calcimimetics (e.g., cinacalcet)
+3. Glucocorticoids
+4. IV hydration and loop diuretics to enhance calcium excretion
+5. Dialysis in severe cases
+
+Consult a healthcare provider for personalized treatment.",hypercalcemia,hyperaemia,indication,glucocorticoids,glucocorticoid,Hallucination,No edge between 'hyperaemia' and 'glucocorticoid'.
+"Besides metamfetamine, what is another common medication for substance abuse/dependence?","Besides metamfetamine (methamphetamine), another common medication for substance abuse/dependence is buprenorphine, often used to treat opioid addiction.",substance use disorder,substance use disorder,indication,buprenorphine,buprenorphine,Hallucination,No edge between 'substance use disorder' and 'buprenorphine'.
+"Besides metamfetamine, what is another common medication for substance abuse/dependence?","Besides metamfetamine (methamphetamine), another common medication for substance abuse/dependence is buprenorphine, often used to treat opioid addiction.",opioid use disorder,opioid use disorder,indication,buprenorphine,buprenorphine,Verified,Correct relation.
+Is clonidine commonly prescribed to treat chronic renal failure syndrome?,"No, clonidine is not commonly prescribed to treat chronic renal failure syndrome. It's primarily used to treat hypertension, ADHD, and certain pain conditions. In chronic renal failure, other medications like ACE inhibitors, ARBs, and diuretics are more commonly used.",chronic renal failure,chronic renal failure syndrome,not indication,clonidine,clonidine,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Is clonidine commonly prescribed to treat chronic renal failure syndrome?,"No, clonidine is not commonly prescribed to treat chronic renal failure syndrome. It's primarily used to treat hypertension, ADHD, and certain pain conditions. In chronic renal failure, other medications like ACE inhibitors, ARBs, and diuretics are more commonly used.",hypertension,hypertension,indication,clonidine,clonidine,Verified,Correct relation.
+Is clonidine commonly prescribed to treat chronic renal failure syndrome?,"No, clonidine is not commonly prescribed to treat chronic renal failure syndrome. It's primarily used to treat hypertension, ADHD, and certain pain conditions. In chronic renal failure, other medications like ACE inhibitors, ARBs, and diuretics are more commonly used.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",indication,clonidine,clonidine,Verified,Correct relation.
+What is a common medication used to treat cryptosporidiosis?,A common medication used to treat cryptosporidiosis is Nitazoxanide.,cryptosporidiosis,cryptosporidiosis,indication,nitazoxanide,nitazoxanide,Verified,Correct relation.
+"If a patient has substance use disorder, what drug is usually prescribed?","For substance use disorder, medications such as Methadone, Buprenorphine (Suboxone), or Naltrexone are often prescribed, depending on the type of substance being abused and the patient's specific needs.",substance use disorder,substance use disorder,indication,methadone,methadone,Hallucination,No edge between 'substance use disorder' and 'methadone'.
+"If a patient has substance use disorder, what drug is usually prescribed?","For substance use disorder, medications such as Methadone, Buprenorphine (Suboxone), or Naltrexone are often prescribed, depending on the type of substance being abused and the patient's specific needs.",substance use disorder,substance use disorder,indication,buprenorphine,buprenorphine,Hallucination,No edge between 'substance use disorder' and 'buprenorphine'.
+"If a patient has substance use disorder, what drug is usually prescribed?","For substance use disorder, medications such as Methadone, Buprenorphine (Suboxone), or Naltrexone are often prescribed, depending on the type of substance being abused and the patient's specific needs.",substance use disorder,substance use disorder,indication,naltrexone,naltrexone,Hallucination,No edge between 'substance use disorder' and 'naltrexone'.
+What is the main use for the medication clonidine?,"The main use for the medication clonidine is to treat high blood pressure (hypertension) and attention deficit hyperactivity disorder (ADHD). It can also be used to manage symptoms of anxiety, insomnia, and certain pain conditions.",hypertension,hypertension,indication,clonidine,clonidine,Verified,Correct relation.
+What is the main use for the medication clonidine?,"The main use for the medication clonidine is to treat high blood pressure (hypertension) and attention deficit hyperactivity disorder (ADHD). It can also be used to manage symptoms of anxiety, insomnia, and certain pain conditions.",attention deficit hyperactivity disorder,"attention deficit hyperactivity disorder, inattentive type",indication,clonidine,clonidine,Verified,Correct relation.
+What is the main use for the medication clonidine?,"The main use for the medication clonidine is to treat high blood pressure (hypertension) and attention deficit hyperactivity disorder (ADHD). It can also be used to manage symptoms of anxiety, insomnia, and certain pain conditions.",anxiety,anxiety,indication,clonidine,clonidine,Hallucination,No edge between 'anxiety' and 'clonidine'.
+What is the main use for the medication clonidine?,"The main use for the medication clonidine is to treat high blood pressure (hypertension) and attention deficit hyperactivity disorder (ADHD). It can also be used to manage symptoms of anxiety, insomnia, and certain pain conditions.",insomnia,,indication,clonidine,,Unverifiable,Disease 'insomnia' not found in dataset.
+What is the main use for the medication clonidine?,"The main use for the medication clonidine is to treat high blood pressure (hypertension) and attention deficit hyperactivity disorder (ADHD). It can also be used to manage symptoms of anxiety, insomnia, and certain pain conditions.",pain,pacing,indication,clonidine,clonidine,Hallucination,No edge between 'pacing' and 'clonidine'.
+What is a common medication used to treat male infertility?,"Clomiphene citrate is a common medication used to treat male infertility, as it can help increase testosterone levels and sperm production.",male infertility,male infertility,indication,clomiphene,clomifene,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+"If a patient has idiopathic aplastic anemia, what drug is usually prescribed?","For idiopathic aplastic anemia, the prescribed drugs often include immunosuppressants such as antithymocyte globulin (ATG) and cyclosporine.",aplastic anemia,aplastic anemia,indication,antithymocyte globulin,,Unverifiable,Drug 'antithymocyte globulin' not found in dataset.
+"If a patient has idiopathic aplastic anemia, what drug is usually prescribed?","For idiopathic aplastic anemia, the prescribed drugs often include immunosuppressants such as antithymocyte globulin (ATG) and cyclosporine.",aplastic anemia,aplastic anemia,indication,cyclosporine,cyclosporine,Hallucination,No edge between 'aplastic anemia' and 'cyclosporine'.
+"What is a common medication used to treat desmoid disease, hereditary?","Sulindac is a common medication used to treat desmoid disease, hereditary.",desmoid disease,,indication,sulindac,,Unverifiable,Disease 'desmoid disease' not found in dataset.
+What is a common medication used to treat gamma chain deficiency?,"Immunoglobulin replacement therapy is a common treatment for gamma chain deficiency, but a specific medication is not typically used. However, medications like prophylactic antibiotics and immunoglobulins, such as gamma globulin (e.g., Gamunex-C or Gammagard), may be prescribed.",gamma chain deficiency,gamma chain deficiency,indication,immune globulin,,Unverifiable,Drug 'immune globulin' not found in dataset.
+What is a common medication used to treat gamma chain deficiency?,"Immunoglobulin replacement therapy is a common treatment for gamma chain deficiency, but a specific medication is not typically used. However, medications like prophylactic antibiotics and immunoglobulins, such as gamma globulin (e.g., Gamunex-C or Gammagard), may be prescribed.",gamma chain deficiency,gamma chain deficiency,indication,antibiotic,antibiotic,Hallucination,No edge between 'gamma chain deficiency' and 'antibiotic'.
+Can you list a few other treatments for vernal conjunctivitis other than nedocromil?,"Other treatments for vernal conjunctivitis include: 
+
+1. Mast cell stabilizers (e.g., cromolyn sodium)
+2. Antihistamines (e.g., levocabastine)
+3. Corticosteroids (short-term use)
+4. Immunomodulators (e.g., cyclosporine)
+
+It's best to consult a doctor for proper diagnosis and treatment.",vernal conjunctivitis,vernal conjunctivitis,indication,cromolyn sodium,,Unverifiable,Drug 'cromolyn sodium' not found in dataset.
+Can you list a few other treatments for vernal conjunctivitis other than nedocromil?,"Other treatments for vernal conjunctivitis include: 
+
+1. Mast cell stabilizers (e.g., cromolyn sodium)
+2. Antihistamines (e.g., levocabastine)
+3. Corticosteroids (short-term use)
+4. Immunomodulators (e.g., cyclosporine)
+
+It's best to consult a doctor for proper diagnosis and treatment.",vernal conjunctivitis,vernal conjunctivitis,indication,levocabastine,levocabastine,Verified,Correct relation.
+Can you list a few other treatments for vernal conjunctivitis other than nedocromil?,"Other treatments for vernal conjunctivitis include: 
+
+1. Mast cell stabilizers (e.g., cromolyn sodium)
+2. Antihistamines (e.g., levocabastine)
+3. Corticosteroids (short-term use)
+4. Immunomodulators (e.g., cyclosporine)
+
+It's best to consult a doctor for proper diagnosis and treatment.",vernal conjunctivitis,vernal conjunctivitis,indication,corticosteroid,corticotropin,Hallucination,No edge between 'vernal conjunctivitis' and 'corticotropin'.
+Can you list a few other treatments for vernal conjunctivitis other than nedocromil?,"Other treatments for vernal conjunctivitis include: 
+
+1. Mast cell stabilizers (e.g., cromolyn sodium)
+2. Antihistamines (e.g., levocabastine)
+3. Corticosteroids (short-term use)
+4. Immunomodulators (e.g., cyclosporine)
+
+It's best to consult a doctor for proper diagnosis and treatment.",vernal conjunctivitis,vernal conjunctivitis,indication,cyclosporine,cyclosporine,Hallucination,No edge between 'vernal conjunctivitis' and 'cyclosporine'.
+Is terbutaline commonly prescribed to treat respiratory failure?,"No, terbutaline is not commonly prescribed to treat respiratory failure. It's primarily used to treat asthma and COPD (chronic obstructive pulmonary disease) by relaxing airway muscles, but other medications are preferred for respiratory failure.",respiratory failure,respiratory failure,not indication,terbutaline,terbutaline,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Is terbutaline commonly prescribed to treat respiratory failure?,"No, terbutaline is not commonly prescribed to treat respiratory failure. It's primarily used to treat asthma and COPD (chronic obstructive pulmonary disease) by relaxing airway muscles, but other medications are preferred for respiratory failure.",asthma,asthma,indication,terbutaline,terbutaline,Verified,Correct relation.
+Is terbutaline commonly prescribed to treat respiratory failure?,"No, terbutaline is not commonly prescribed to treat respiratory failure. It's primarily used to treat asthma and COPD (chronic obstructive pulmonary disease) by relaxing airway muscles, but other medications are preferred for respiratory failure.",chronic obstructive pulmonary disease,chronic obstructive pulmonary disease,indication,terbutaline,terbutaline,Hallucination,No edge between 'chronic obstructive pulmonary disease' and 'terbutaline'.
+Can testosterone enanthate be used for a patient with obstructive sleep apnea syndrome?,"Testosterone enanthate may worsen obstructive sleep apnea (OSA) symptoms due to its potential to increase upper airway resistance and promote sleepiness. It's generally not recommended for patients with untreated or severe OSA. However, in some cases, it may be used under close monitoring and with caution, particularly if the patient's OSA is well-managed and they are being treated for hypogonadism. A thorough discussion with the patient's healthcare provider is necessary to weigh the benefits and risks.",obstructive sleep apnea,obstructive sleep apnea syndrome,contraindication,testosterone,testosterone,Verified,Correct relation.
+Can testosterone enanthate be used for a patient with obstructive sleep apnea syndrome?,"Testosterone enanthate may worsen obstructive sleep apnea (OSA) symptoms due to its potential to increase upper airway resistance and promote sleepiness. It's generally not recommended for patients with untreated or severe OSA. However, in some cases, it may be used under close monitoring and with caution, particularly if the patient's OSA is well-managed and they are being treated for hypogonadism. A thorough discussion with the patient's healthcare provider is necessary to weigh the benefits and risks.",hypogonadism,hypogonadism,indication,testosterone,testosterone,Verified,Correct relation.
+Can you list a few other treatments for ovarian adenocarcinoma other than testosterone?,"For ovarian adenocarcinoma, other treatments include:
+
+1. Surgery (hysterectomy, oophorectomy)
+2. Chemotherapy (carboplatin, paclitaxel)
+3. Radiation therapy
+4. Hormone therapy (estrogen-blocking agents)
+5. Targeted therapy (bevacizumab, olaparib)
+6. Immunotherapy (checkpoint inhibitors)
+
+Note: Testosterone is not a standard treatment for ovarian adenocarcinoma. Hormone therapies used typically involve estrogen-blocking agents.",ovarian adenocarcinoma,ovarian adenocarcinoma,indication,carboplatin,carboplatin,Verified,Correct relation.
+Can you list a few other treatments for ovarian adenocarcinoma other than testosterone?,"For ovarian adenocarcinoma, other treatments include:
+
+1. Surgery (hysterectomy, oophorectomy)
+2. Chemotherapy (carboplatin, paclitaxel)
+3. Radiation therapy
+4. Hormone therapy (estrogen-blocking agents)
+5. Targeted therapy (bevacizumab, olaparib)
+6. Immunotherapy (checkpoint inhibitors)
+
+Note: Testosterone is not a standard treatment for ovarian adenocarcinoma. Hormone therapies used typically involve estrogen-blocking agents.",ovarian adenocarcinoma,ovarian adenocarcinoma,indication,paclitaxel,paclitaxel,Verified,Correct relation.
+Can you list a few other treatments for ovarian adenocarcinoma other than testosterone?,"For ovarian adenocarcinoma, other treatments include:
+
+1. Surgery (hysterectomy, oophorectomy)
+2. Chemotherapy (carboplatin, paclitaxel)
+3. Radiation therapy
+4. Hormone therapy (estrogen-blocking agents)
+5. Targeted therapy (bevacizumab, olaparib)
+6. Immunotherapy (checkpoint inhibitors)
+
+Note: Testosterone is not a standard treatment for ovarian adenocarcinoma. Hormone therapies used typically involve estrogen-blocking agents.",ovarian adenocarcinoma,ovarian adenocarcinoma,indication,bevacizumab,bevacizumab,Hallucination,No edge between 'ovarian adenocarcinoma' and 'bevacizumab'.
+Can you list a few other treatments for ovarian adenocarcinoma other than testosterone?,"For ovarian adenocarcinoma, other treatments include:
+
+1. Surgery (hysterectomy, oophorectomy)
+2. Chemotherapy (carboplatin, paclitaxel)
+3. Radiation therapy
+4. Hormone therapy (estrogen-blocking agents)
+5. Targeted therapy (bevacizumab, olaparib)
+6. Immunotherapy (checkpoint inhibitors)
+
+Note: Testosterone is not a standard treatment for ovarian adenocarcinoma. Hormone therapies used typically involve estrogen-blocking agents.",ovarian adenocarcinoma,ovarian adenocarcinoma,indication,olaparib,olaparib,Verified,Correct relation.
+Can you list a few other treatments for ovarian adenocarcinoma other than testosterone?,"For ovarian adenocarcinoma, other treatments include:
+
+1. Surgery (hysterectomy, oophorectomy)
+2. Chemotherapy (carboplatin, paclitaxel)
+3. Radiation therapy
+4. Hormone therapy (estrogen-blocking agents)
+5. Targeted therapy (bevacizumab, olaparib)
+6. Immunotherapy (checkpoint inhibitors)
+
+Note: Testosterone is not a standard treatment for ovarian adenocarcinoma. Hormone therapies used typically involve estrogen-blocking agents.",ovarian adenocarcinoma,ovarian adenocarcinoma,not indication,testosterone,testosterone,Relation Mismatch,"Expected 'contraindication', got 'not indication'."
+Can methylphenobarbital be used for a patient with neutropenia?,"Methylphenobarbital is not typically recommended for patients with neutropenia, as it can potentially exacerbate the condition by further suppressing bone marrow activity.",neutropenia,neutropenia,contraindication,methylphenobarbital,methylphenobarbital,Verified,Correct relation.
+"If a patient has graft versus host disease, what drug is usually prescribed?","For Graft Versus Host Disease (GVHD), a common medication prescribed is Cyclosporine, often in combination with other immunosuppressants like Prednisone and Methotrexate.",graft versus host disease,graft versus host disease,indication,cyclosporine,cyclosporine,Relation Mismatch,"Expected 'off-label use', got 'indication'."
+"If a patient has graft versus host disease, what drug is usually prescribed?","For Graft Versus Host Disease (GVHD), a common medication prescribed is Cyclosporine, often in combination with other immunosuppressants like Prednisone and Methotrexate.",graft versus host disease,graft versus host disease,indication,prednisone,prednisone,Verified,Correct relation.
+"If a patient has graft versus host disease, what drug is usually prescribed?","For Graft Versus Host Disease (GVHD), a common medication prescribed is Cyclosporine, often in combination with other immunosuppressants like Prednisone and Methotrexate.",graft versus host disease,graft versus host disease,indication,methotrexate,methotrexate,Hallucination,No edge between 'graft versus host disease' and 'methotrexate'.
+Can you name a standard treatment for uterine corpus leiomyoma?,"One standard treatment for uterine corpus leiomyoma (fibroids) is a hysterectomy, but other options include myomectomy, uterine artery embolization (UAE), and medication such as gonadotropin-releasing hormone (GnRH) agonists.",uterine fibroids,,indication,gnrh agonist,,Unverifiable,Disease 'uterine fibroids' not found in dataset.
+For what disease would a doctor usually prescribe teprotumumab?,Teprotumumab is typically prescribed for the treatment of Thyroid Eye Disease (TED).,thyroid eye disease,rare thyroid disease,indication,teprotumumab,teprotumumab,Hallucination,No edge between 'rare thyroid disease' and 'teprotumumab'.
+What medical condition is benzbromarone typically used to treat?,Benzbromarone is typically used to treat gout.,gout,gout,indication,benzbromarone,benzbromarone,Verified,Correct relation.
+For what disease would a doctor usually prescribe galcanezumab?,Galcanezumab is typically prescribed for the treatment of migraine and cluster headaches.,migraine,antimigraine,indication,galcanezumab,galcanezumab,Hallucination,No edge between 'antimigraine' and 'galcanezumab'.
+For what disease would a doctor usually prescribe galcanezumab?,Galcanezumab is typically prescribed for the treatment of migraine and cluster headaches.,cluster headache,,indication,galcanezumab,,Unverifiable,Disease 'cluster headache' not found in dataset.
+What is the main use for the medication polidocanol?,The main use for the medication polidocanol is as a sclerosing agent to treat varicose veins and spider veins.,varicose veins,varicose veins,indication,polidocanol,polidocanol,Hallucination,No edge between 'varicose veins' and 'polidocanol'.
+What is the main use for the medication polidocanol?,The main use for the medication polidocanol is as a sclerosing agent to treat varicose veins and spider veins.,spider veins,,indication,polidocanol,,Unverifiable,Disease 'spider veins' not found in dataset.
+I saw that lovastatin is a treatment for cerebrovascular disorder. Is this correct?,"Lovastatin is a statin medication primarily used to lower cholesterol levels. While it may have some benefits in reducing the risk of cerebrovascular events, such as stroke, it is not a direct treatment for cerebrovascular disorders. Instead, it's often used as a preventative measure to reduce the risk of cardiovascular and cerebrovascular events in patients with high cholesterol or cardiovascular disease.",hypercholesterolemia,,indication,lovastatin,,Unverifiable,Disease 'hypercholesterolemia' not found in dataset.
+I saw that lovastatin is a treatment for cerebrovascular disorder. Is this correct?,"Lovastatin is a statin medication primarily used to lower cholesterol levels. While it may have some benefits in reducing the risk of cerebrovascular events, such as stroke, it is not a direct treatment for cerebrovascular disorders. Instead, it's often used as a preventative measure to reduce the risk of cardiovascular and cerebrovascular events in patients with high cholesterol or cardiovascular disease.",cerebrovascular disease,cerebrovascular disease,not indication,lovastatin,lovastatin,Hallucination,No edge between 'cerebrovascular disease' and 'lovastatin'.
+I saw that lovastatin is a treatment for cerebrovascular disorder. Is this correct?,"Lovastatin is a statin medication primarily used to lower cholesterol levels. While it may have some benefits in reducing the risk of cerebrovascular events, such as stroke, it is not a direct treatment for cerebrovascular disorders. Instead, it's often used as a preventative measure to reduce the risk of cardiovascular and cerebrovascular events in patients with high cholesterol or cardiovascular disease.",cerebrovascular disease,cerebrovascular disease,indication,lovastatin,lovastatin,Hallucination,No edge between 'cerebrovascular disease' and 'lovastatin'.
+I saw that lovastatin is a treatment for cerebrovascular disorder. Is this correct?,"Lovastatin is a statin medication primarily used to lower cholesterol levels. While it may have some benefits in reducing the risk of cerebrovascular events, such as stroke, it is not a direct treatment for cerebrovascular disorders. Instead, it's often used as a preventative measure to reduce the risk of cardiovascular and cerebrovascular events in patients with high cholesterol or cardiovascular disease.",cardiovascular disease,cardiovascular disease,indication,lovastatin,lovastatin,Hallucination,No edge between 'cardiovascular disease' and 'lovastatin'.
+"If a patient has pressure ulcer, what drug is usually prescribed?","For pressure ulcers, a common prescription is a topical debridement agent, such as collagenase (e.g., Santyl), and possibly a pain reliever like acetaminophen or ibuprofen. However, the primary treatment for pressure ulcers involves wound care and management, including debridement, dressing, and offloading pressure.",pressure ulcer,pressure ulcer,indication,collagenase,collagen disease,Hallucination,No edge between 'pressure ulcer' and 'collagen disease'.
+"If a patient has pressure ulcer, what drug is usually prescribed?","For pressure ulcers, a common prescription is a topical debridement agent, such as collagenase (e.g., Santyl), and possibly a pain reliever like acetaminophen or ibuprofen. However, the primary treatment for pressure ulcers involves wound care and management, including debridement, dressing, and offloading pressure.",pressure ulcer,pressure ulcer,indication,acetaminophen,acetaminophen,Hallucination,No edge between 'pressure ulcer' and 'acetaminophen'.
+"If a patient has pressure ulcer, what drug is usually prescribed?","For pressure ulcers, a common prescription is a topical debridement agent, such as collagenase (e.g., Santyl), and possibly a pain reliever like acetaminophen or ibuprofen. However, the primary treatment for pressure ulcers involves wound care and management, including debridement, dressing, and offloading pressure.",pressure ulcer,pressure ulcer,indication,ibuprofen,ibuprofen,Hallucination,No edge between 'pressure ulcer' and 'ibuprofen'.
+"If a patient has idiopathic achalasia, what drug is usually prescribed?","For idiopathic achalasia, nitrates (such as isosorbide dinitrate) or calcium channel blockers (like nifedipine) are often prescribed to help relax the lower esophageal sphincter and improve swallowing.",achalasia,,indication,isosorbide dinitrate,,Unverifiable,Disease 'achalasia' not found in dataset.
+"If a patient has idiopathic achalasia, what drug is usually prescribed?","For idiopathic achalasia, nitrates (such as isosorbide dinitrate) or calcium channel blockers (like nifedipine) are often prescribed to help relax the lower esophageal sphincter and improve swallowing.",achalasia,,indication,nifedipine,,Unverifiable,Disease 'achalasia' not found in dataset.
+Can you name a standard treatment for endogenous depression?,"One standard treatment for endogenous depression is Selective Serotonin Reuptake Inhibitors (SSRIs), often combined with psychotherapy.",depression,desmopressin,indication,selective serotonin reuptake inhibitor,selective serotonin reuptake inhibitor,Hallucination,No edge between 'desmopressin' and 'selective serotonin reuptake inhibitor'.
+For what disease would a doctor usually prescribe cabergoline?,Cabergoline is usually prescribed for hyperprolactinemia (elevated prolactin levels) and Parkinson's disease.,hyperprolactinemia,familial hyperprolactinemia,indication,cabergoline,cabergoline,Verified,Correct relation.
+For what disease would a doctor usually prescribe cabergoline?,Cabergoline is usually prescribed for hyperprolactinemia (elevated prolactin levels) and Parkinson's disease.,parkinson disease,parkinson disease,indication,cabergoline,cabergoline,Verified,Correct relation.
+For what disease would a doctor usually prescribe peritoneal dialysis fluid?,A doctor would usually prescribe peritoneal dialysis fluid for patients with End-Stage Renal Disease (ESRD) or acute kidney injury.,end-stage renal disease,,indication,peritoneal dialysis fluid,,Unverifiable,Disease 'end-stage renal disease' not found in dataset.
+For what disease would a doctor usually prescribe peritoneal dialysis fluid?,A doctor would usually prescribe peritoneal dialysis fluid for patients with End-Stage Renal Disease (ESRD) or acute kidney injury.,acute kidney injury,,indication,peritoneal dialysis fluid,,Unverifiable,Disease 'acute kidney injury' not found in dataset.
